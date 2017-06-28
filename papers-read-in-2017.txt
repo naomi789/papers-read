@@ -1,5 +1,33 @@
 
 Communicating Context to the Crowd for Complex Writing Tasks (Niloufar Salehi et al) (Stanford)
 
+
 Quantifying Visual Preferences Around the World (Katharina Renecke and Krzysztof Z. Gajos) (U Michigan and Harvard)
+
+
+Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks" 2016 Lerremore et all UC Boulder
+
+Growing Female Undergraduate Enrollments in Computer Science: What’s the Secret? 2013 SIGCSE Panel
+
+Evaluating Diversity Initiatives in CS: Do they have unintended Side-Effects? Elizabeth Patitsas U of Toronto ICER 2014
+
+Intentionally Recurisve: a Participatory Model for Mentoring. SIGDOC 2015. Sullivan (Purdue) et al. 
+
+Getting more women into tech careers and why it matters CCSC April 2014 Maria Klawe Harvey Mudd College
+
+Gender Gap in Computer Science Does Not Exist in One Former Soviet Republic: Results of a Study. ITiCSE 2006. Gharibyan, Gunsaulus. 
+
+Sisters Rise Up 4 CS: Helping Female Students Pass the AP CS A Exam. CIGCSE 2016. Georgia Tech. 
+
+Computer Science issues in HS: Gender and More. ITiCSE 2009. OUIsrael. 
+
+Recruiting and Retaining Women in Undergraduate Computing Majors. 2002 SIGCSE. UVa.
+
+Unlocking the Clubhouse: The Carnegie Mellon Experience. Allan Fisher, Jane Margolis. SIGCSE 2002. 
+
+Once she makes it, she’s there! SIGCSE 2008 (continuation of a 2006 paper)
+
+EngageCSEdu: CS1 and CS2 Materials for Engaging and Retaining Undergraduate CS Students
+
+Constructivism in an introduction to programming course Sam Houston University (Gonzales) CCSC 2004
 
