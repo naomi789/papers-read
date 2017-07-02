@@ -1,0 +1,23 @@
+Catchy Titles Are Good: But Avoid Being Too Cute (Jacob O. Wobbrock 2015 University of Washington)
+
+Older Adults Learning Computer Programming: Motivations, Frustrations, and Design Opportunities (CHI 2017 Philip J. Guo)
+
+Proxemic Transitions: Designing Shape Changing Furniture for Informal Meetings (CHI 2017 Denmark)
+
+The Design Fictions of a Philanthropic IT: Stuck Between an Imperfect Present and an Impossible Future (CHI 2017 UCBoulder)
+
+Celebratory Technology to Orchestrate the Sharing of Devices and Stories DUring Family Mealtimes (CHI 2017 various Australian Unis)
+
+Parallel Prototyping Leads to Better Desgin Results, More Divergence, and Increased Self-Efficacy (2012 Stanford)
+
+Designing with Iteractive Example Galleries (CHI 2010, Stanford HCI)
+
+Monte Carlo Sort for unreliable human comparisons (Samuel L. Smith Dec 2016?)
+
+Design Galleries: A General Approach to Setting Parameters for Commputer Graphics and Animation (MERL and Harvard)
+
+Sorting with Unreliable Comparisons: A Probabalistic Analysis (??)
+
+DesignScape: Design with Interactive Layout Suggestions (U of Toronto and Adobe, CHI 2015)
+
+SlideSpace: Heuristic Design of a Hybrid Presentation Medium (Microsoft Research and lots unis, ACM CHI Vol23/#3/16)
