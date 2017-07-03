@@ -21,3 +21,9 @@ Sorting with Unreliable Comparisons: A Probabalistic Analysis (??)
 DesignScape: Design with Interactive Layout Suggestions (U of Toronto and Adobe, CHI 2015)
 
 SlideSpace: Heuristic Design of a Hybrid Presentation Medium (Microsoft Research and lots unis, ACM CHI Vol23/#3/16)
+
+Distance Matters (Gary M. Olson and Judith S. Oloson 2000 HCI Journal U of Michigan)
+
+Direcct Manipulation Interfaces (CHI 1985 Journal UCSan Diego)
+
+The Media Equation (1996 Bryon Reeves)
