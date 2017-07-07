@@ -1,3 +1,11 @@
+HCI:
+Watch the video: Douglas C. Englebart from 1968 "the demo"
+Card, Moran, and Newell. The Psychology of Human-Computer Interaction. (esp. chapter 2, 5, 8)
+Fruit Ninja (recent CHI paper about anger and swipes in app/game)
+MouStress 2014 CHI paper
+Pop Therapy: Coping through Pop Culture (2014)
+
+
 WOMEN IN CS:
 
 The student prompt: Student feedback and change in teaching practices in postsecondary computer science. Barker, L. & Gruning, J. (2014). 
