@@ -1,8 +1,11 @@
 The Xerox Star: A Retrospective. Johnson et al. 1989
 -discusses the desktop computer and which of its ideas were new
+--> this is pretty much the description of why modern computers are like this
 -see section "direct manipulation" on page 14 re: why we have the UI that we do
 --> difference between UI/UX being intuitive v. users having experience using it v. etc what is a "good" UI/UX
--
+-Ivan Sutherlang, 1960's, creating sketchpad
+(why do I struggle to be interested in graphics, robots, etc? I find history really interested, but not inventing anything related...)
+
 
 Man-Computer Symbiosis (J. C. R. Licklider 1960)
 -Mechanically Extended Man != AI
