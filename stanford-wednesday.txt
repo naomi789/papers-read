@@ -1,0 +1,34 @@
+July 12th meeting
+Professor Sriram Subramanian from the University of Sussex. 
+Title: Manipulating acoustic wave fronts for mid-air haptics and displays
+*scented-fog filled computer-produced bubbles (instead of 2D digital bubbles that alert you when someone texts/messages you
+*MistForm was a 3D grid thing projector/delio
+ACM CHI 2012 ultratangibles (moving stuff on top of a tablet) 
+ACM UIST 2012 (now defying gravity single beads, multiples, in grids, with physical interaction, etc)
+(point of those two things is that they can use ultrasonic speakers to levitate things)
+can flip, rotate with tailored electronic field 
+JOLED (is the name of the bead levitator?)
+needs pressure amplitude to be a minimum 
+gor'kov potential on small sperical particles
+(bead was small, 2-3milimeters and sperical, so they could treat it as a point)
+three different ways to  trap an item (while levitating it)
+-twin
+-vortex
+-bottle
+Patrick Haggard 2002 (reporting your percieved action and when you think the outcome occurs)
+... I am a little confused? Is that like the difference between when you touch the key v. press down v. come up
+used a "libet clock" 
+talking about the difference in perception of when an event started v. ended based on if it was visual (seeing a video of a button being pressed) or vibrotactile or mid-air. 
+
+*most disappointing part of this talk is the fact that his presentation of how the experiment was set up was so confusing that we spent a lot of our time trying to understand that. He probably should've made a five minute video showing what was happening. 
+(I feel like Bernstein also is not super impressed with this guy's explanations/something about this)
+they also tried audio feedback too
+
+questions people asked/I thought:
+-people have more experience with visual interfaces. How much did/goes/can that change the results (results being that visual interfaces are much more precise than vibrotactile or mid-air)
+
+Invited us to sign up for the academic demo (and they are selling this in Palo Alto)
+
+
+
+
