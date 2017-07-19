@@ -1,3 +1,81 @@
+Cynthia Lee
+The first field takes forever, it'll be easier to get into your second field
+think of the vibes of different labs, make sure you like the people that you will be working with
+greedy algorithm in life choices, can produce global optimmal results
+LISTEN TO THAT VOICE INSIDE who says "but what I really want to do is.."
+--> especially with work life balance, picking a major, etc
+Talked about BYU recruiting women faculty
+--> risk of not getting tenure
+-->is your hubby disabled 
+--> three is the magic number to get women into leadershp (two can be odd.... like if they both vote a ccertain way, or vote different (cat fight)... tokenizing them.)
+Overall advice:
+-make your resume who you are
+-but kinda need to hide the fact that I love education, possibly... Depends on what I want to do
+-BUT I shouldn't be silencing and supress
+Always be quick to do things I love--- maybe aim really high (more technical) and then you can reevaluate after 6 months if it makes me miserable)
+
+July 19th Meeting
+Mark Guzdial  at Georgia Tech 
+Andy Ko at UW
+
+
+if you have 1000 students or 2000 students in class, how can the professors/TAs grade let alone give feedback?
+Huang (sp?) made pollock-looking 3D map/art to show different in/correct solutions
+1. how do humans learn from examples??
+SOCIAL SOLUTIONS
+-peer groups
+-home enviro
+-communities of practice
+-identity
+-mindset
+TEACHING STRATEGIES:
+-(like ten diff ones)
+...
+-learning from examples (example  variation)
+-"the hitchhiker's guide to python" (contrasting good and bad, examples of what a rule is)
+*discussion of the new movie "Arrival"
+*discussion of the importance of education/psychology papers to her work
+-anological transfers. Showing a photo and helping a computer know what is a laptop (generalizing from two examples) 
+-strategic diversity (right v. wrong)
+-superficial features (doesn't affect membership: can have a lot of variation but all still fall into this category) 
+-show a bunch of variants of one attribute (colors: no matter the color, it is one)
+-fusion: do all the above examples, mixing it all  up
+
+2. How do overCode & FooBaz help downstrea, human learning from examples?
+-want teacher to learn about their class/students
+-want to help students learn about code
+DIMENSIONS OF SOLUTION VARIATION:
+-standardize formatting, remove comments, pick good var names, ignore statement order, and syntax. 
+-talked about how to do some of that
+-then look at the unique sets
+
+I was a little confused when she talked about the num of solutions teachers viewed in 15 minutes? 
+Ahh, she made it a little more clear later. 
+
+Importancce of downstream learning from examples (teacher <--> student)
+
+FOOBAZ: 
+different workflow
+talked about the importance of variable names
+
+MAIN TAKE AWAY:
+-importance of making (good) generalizations through good examples
+-the idea of showing these results to different students (worried beginners might be overwhelmed)
+-noticing people who use which textbook v. professor v. school has coding-cultural-differentials (variable names can havve numbers or not. Using "too much" recursion or not. "Best solution" is easiest v. fastest etc).
+-the idea of translating variables btw languages
+
+MY QUESTIONS:
+what is inductive programming?
+am i interested in "program analysis"?
+why does Prof. Bernstein always ask questions that seem most helpful? 
+
+
+
+
+(prep for) July 19th meeting
+Elena L. Glassman: EECS PhD from MIT, currently a postdoc
+note: look at her "programming education at scale" stuff!!
+
 July 12th meeting
 Professor Sriram Subramanian from the University of Sussex. 
 Title: Manipulating acoustic wave fronts for mid-air haptics and displays

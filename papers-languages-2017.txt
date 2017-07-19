@@ -1,3 +1,20 @@
+One Model to Learn them All (Google and U of Toronto)
+2017 July 19th NLP reading group
+CONVOLUTIONAL AUTOREGRESSIVE MODELS:
+-looked at citation #11, talked about machine translation
+-looked at citation #15
+DEPTHWISE AUTOREGRESSIVE MODELS:
+-assuming each batch size is one
+-something is 2D: sequence length * number of features
+MULTI-HEAD DOT-PRODUCT ATTENTION
+SPARSELY-GATED MIXTURE-OF-EXPERTS
+OTHER DEATILS
+lots of talk of GPU and ram that things will require, google's "inception exception" thing? 
+*yeah there were TONS of things I didn't understand from this lecture... 
+*seemed like the lecturer kept referring to papers they have read this term
+WHY THIS MATTERS:
+-
+
 The Human Touch: How Non-expert Users Percieve, Interpret, and Fix Topic Models (Seppi& co HCI journal 2017)
 
 Mrs: High Preformance Map Reduce for Iterative and Asynchronus Algorithms in Python (Lund, Seppi, et al 2016 python conference)
