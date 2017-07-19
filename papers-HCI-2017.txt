@@ -1,3 +1,20 @@
+Beyond Weiser: From Ubiquitous to Collective Computing (Gregory D. Abowd 2016 IEEE)
+Referred to Mark Weiser's work and the idea of ubiquitous computing being part of the "third wave" (and again, "having vision")
+Generation 1: the mainframe comp (1936 Alan Turning, machines to fight WWII, many people would share the same comp, repurposing the machine for post war uses)
+Generation 2: the PC (Douglas Englebart NLS/Augment 1968??, Xerox and the first PC. Not widely used until the spreadsheet became a thing)
+Generation 3: ubiquitous computing (when one person would have multiple devices (Ken Sakamura, UTokyo), multiple sizes and multiple capabilities, discussion of how phones became a thing, interaction capabilities grew)
+Generation 4: what do we need next?? 
+-devices that promote human-human interaction
+-getting different devices to synchronize/improving the cloud
+-crowd sourcing (I don't think I knew that was a thing until I met Prof. Bernstein)
+-wearables (and other connections between digital and physical (aka cyborgs))
+KEEP READING I AM NOT DONE HERE
+
+The Computer for the 21st century (Mark Weiser 1991)
+The idea that once computers "disappear" that they are indistinguishable and better because we don't notice how used they are
+Esentially, he described what CS would just be becoming, over 15 years before it happened (and some of it still hasn't happened in 2017)
+Essentially, he knew what he wanted and described that. What do I want CS to become? What kind of questions do I want to work on??
+
 The Xerox Star: A Retrospective. Johnson et al. 1989
 -discusses the desktop computer and which of its ideas were new
 --> this is pretty much the description of why modern computers are like this

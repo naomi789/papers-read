@@ -1,0 +1,5 @@
+The Human Touch: How Non-expert Users Percieve, Interpret, and Fix Topic Models (Seppi& co HCI journal 2017)
+
+Mrs: High Preformance Map Reduce for Iterative and Asynchronus Algorithms in Python (Lund, Seppi, et al 2016 python conference)
+
+
