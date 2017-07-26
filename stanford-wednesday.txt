@@ -1,3 +1,41 @@
+Steven M. Drucker (microsoft research)
+information overload, companies are becoming more data oriented
+information visualization (helping people gain insights)
+-how to explore & find insights
+-the communication (his focus) 
+Quoted Maneesh Agrawala and Jeffery Heer 
+TALKED ABOUT THE DINOSAUR
+"lying with statistics" book
+fivethirtyeight.com and p-hacking
+simpson's paradox
+cons of data storytelling
+sanddance (and a set of data from the census of each county seat)
+-just a square of points
+-plotting them by longitude and lattitude
+-all data for 2016 election wasn't released until June 2017...
+-went through and manipulated data in different ways
+-tree maps 
+-know WHAT you want to communicate, WHY you want to make a visual (give them something to: 1. care about (2. acion item 3. ethical))
+-see Albert Cairo's point on bringing important (not trivial) points
+-confirmation/belieft bias/myside bias
+-sanddance.ms //helps to have curiosity, a desire to educate
+//and skepticism, remember to look at data a lot of different ways
+-AND remember to think about WHERE your data is coming from 
+-econometrics and machine learning 
+-make sure your data is public, available, so skeptics can check out your numbers (whether you were in/correct, it is HARD to duplicate things)
+-->most people are NOT trying to fake it!!
+-"just statistical significance" is not enough
+-interactive graphics/visualizations 
+-ditilled [??]
+-I am confused about the overlap bw statistics and machine learning and...
+-NYTimes has cool interactive graphs... when will ACM papers have that? why not yet?
+-some people are a little anti-qualitative (ethnographic stuff)
+-rant about just collecting tons of data, analyzing it until they find something significant, and then writing about that thing 
+-Jessica Hallman 
+-how can we better use stats?
+-CHI and [InfoWhiz (??)] are fields that are practitioner oriented
+-a lot of things work REALLY well--- sometimes.  
+
 Cynthia Lee
 The first field takes forever, it'll be easier to get into your second field
 think of the vibes of different labs, make sure you like the people that you will be working with

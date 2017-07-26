@@ -1,3 +1,30 @@
+HyperSlides: Dynamic Presenting Prototyping (Microsoft Research)
+People make powerpoint slides that are "slideuments" so people read them as if they are documents, instead of listening to the presenter
+Discussion of "add ons" (interaction/zoomability with slides, non-linear powerpoints, multi-screen, crowd feedback, etc)
+Five main "canons of rhetoric" 1. invention 2. arrangement 3. style 4.memory 5. delivery
+Overall, presentations = just containers 
+
+Wikipedians are born not made (Minneappolis)
+Your first experience in a community dramatically influences the way you percieve/decide if you are going to stay or not. 
+People thought that you would get more experience and then become a more active editor, not necessarily the case. 
+Asks the questions: why join it/what gets people to stay? 
+Talked about word2vec and how languages change in online communities 
+90% OF WIKI EDITORS ARE MALE?!
+
+Soylent: A Word Processor with a Crowd Inside (Bernstein UIST 2010)
+Why did they name this Soylent?? (beause "soylent" was "made" out of humans)
+"find fix verify" Have three sets of people, one to do each. 
+Problem groups: "eager beavers" (people who would overachieve) and "lavy turker" people who did the bare minimum 
+-find fix verify 
+-Crowdproof-
+-shortening-
+-the human macro-
+parallelism issues: if you shorten one paragraph, you had to shorten others. 
+Talked about how much microsoft word can catch, plus how much turks can catch ==> great
+LEGAL OWNERSHIP: should these people have any rights towards the data they provide/editing they do? 
+(what about people who suggest ideas AOT simple edits like in this project) 
+Great discussion about "our data" and what happens when we get adds targeted towards us, etc
+
 Beyond Weiser: From Ubiquitous to Collective Computing (Gregory D. Abowd 2016 IEEE)
 Referred to Mark Weiser's work and the idea of ubiquitous computing being part of the "third wave" (and again, "having vision")
 Generation 1: the mainframe comp (1936 Alan Turning, machines to fight WWII, many people would share the same comp, repurposing the machine for post war uses)
@@ -8,7 +35,7 @@ Generation 4: what do we need next??
 -getting different devices to synchronize/improving the cloud
 -crowd sourcing (I don't think I knew that was a thing until I met Prof. Bernstein)
 -wearables (and other connections between digital and physical (aka cyborgs))
-KEEP READING I AM NOT DONE HERE
+//TODO owattenai 
 
 The Computer for the 21st century (Mark Weiser 1991)
 The idea that once computers "disappear" that they are indistinguishable and better because we don't notice how used they are
