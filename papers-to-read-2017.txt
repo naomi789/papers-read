@@ -1,3 +1,10 @@
+Japanese:
+Rob Voigt (PhD student at Stanford)
+Dan Jurafsky (advisor od Rob Voigt) 
+Cynthia Less (lecturer at Stanford)
+
+
+
 HCI:
 Watch the video: Douglas C. Englebart from 1968 "the demo"
 Card, Moran, and Newell. The Psychology of Human-Computer Interaction. (esp. chapter 2, 5, 8)

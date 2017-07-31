@@ -1,3 +1,11 @@
+Towards a Better Understanding of Context and Context-Awareness (five MIT people, UIST 2013)
+pretty much, I am currently not very interested in 3D printing/3D interfaces/robots/drones/etc
+Cool idea though, especially once I thought of this in context of star trek and weird interfaces :)
+
+Towards a Better Understanding of Context and Context-Awareness (Anind K. Dey and Gregory D. Abowd from Georgia Tech HUC 1999)
+Seemed to be an overview of how far we have gotten with context-aware computing and how much farther we have to go
+(could I write a paper like this about language learning?? and publish it in a similar conference?)
+
 HyperSlides: Dynamic Presenting Prototyping (Microsoft Research)
 People make powerpoint slides that are "slideuments" so people read them as if they are documents, instead of listening to the presenter
 Discussion of "add ons" (interaction/zoomability with slides, non-linear powerpoints, multi-screen, crowd feedback, etc)
