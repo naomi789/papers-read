@@ -1,6 +1,16 @@
+Reflective Physical Prototyping through Integrated Design, Test, and Analysis (Michael Bernstein and other stanford HCI people) 
+seems applicable to Big Widgets/Berries/other prototyping things from BYU HCI
+
+Webzeitgeist (Stanford, MIT, and INTEL)
+WOW I NEED A WEB DESIGN CRAWLER (re: Edna/DesignBot/for this summer internship)
+
+Interactive Sketchingfor the Early Stages of UI Design (James Landay and Brad Meyers)
+-idea that people give better feedback when tool/UI/draft looks like a "work in progress" = seems so so true to me
+
 Towards a Better Understanding of Context and Context-Awareness (five MIT people, UIST 2013)
 pretty much, I am currently not very interested in 3D printing/3D interfaces/robots/drones/etc
 Cool idea though, especially once I thought of this in context of star trek and weird interfaces :)
+*we watched their video and the coolness factor went up 30000% wow
 
 Towards a Better Understanding of Context and Context-Awareness (Anind K. Dey and Gregory D. Abowd from Georgia Tech HUC 1999)
 Seemed to be an overview of how far we have gotten with context-aware computing and how much farther we have to go
