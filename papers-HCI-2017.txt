@@ -1,3 +1,19 @@
+(the following was read on August 18th 2017)
+Geting Inspired! Understanding How and Why Examples are Used in Creative Design Practice (University of Illinois)
+
+Design as Exploration: Creating Interface Alternatives through Parallel Authoring and Runtime tuning (Stanford HCI)
+
+Adaptive Grid-Based Document Layout UWashington and Microsoft Research
+
+Getting the Right Design and the Design Right: Testing Many Is Better Than One (UToronto and Microsoft)
+
+Side Views: Persistent, On-Demand Previews for Open-Ended Tasks Michael Terry, Elizabeth Mynatt Georgia Tech
+
+Variation in Element and Action: Supporting Simultaneous Development of Alternative Solutions (Georgia Tech and UTokyo)
+
+HCI and Societal Issues: A Framework for Engagement (Harry Hochheiser and Jonathon Lazar, Towson University 2007)
+(read on August 14th 2017)
+
 Reflective Physical Prototyping through Integrated Design, Test, and Analysis (Michael Bernstein and other stanford HCI people) 
 seems applicable to Big Widgets/Berries/other prototyping things from BYU HCI
 
@@ -124,6 +140,6 @@ SlideSpace: Heuristic Design of a Hybrid Presentation Medium (Microsoft Research
 
 Distance Matters (Gary M. Olson and Judith S. Oloson 2000 HCI Journal U of Michigan)
 
-Direcct Manipulation Interfaces (CHI 1985 Journal UCSan Diego)
+Direct Manipulation Interfaces (CHI 1985 Journal UCSan Diego)
 
 The Media Equation (1996 Bryon Reeves)

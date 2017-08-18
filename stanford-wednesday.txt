@@ -1,3 +1,22 @@
+August 9th  Marianna Obrist (from University of Sussex)
+"Sensing the Future of Multisensory  HCI"
+why are we always focusing on sight and sound? (no one smells or licks their cell/laptop)
+Her team: half CS, half psycology, plus an EE (need a designer)
+TOUCH:
+-when  would you want mid-air haptic experience? Probably not wanting it on your hand for a 120 minute movie...
+-perhaps at the "one-minute-movie festival" (TDX = name of conference it was published at in 2017, maybe??)
+-also published things at IJCHS (??)
+-valence and emotion graph with where emotions are found
+--> find, fix, verify (what emotions are sensed where on the hands)
+-can you percieve a small drop of beverage/food? if it is levitated and you stick your tongue out to get it? 
+-psycho-phenomonology (not askying "why" and how to get info from people without hinting too much)
+-talked about "mouth feel" 
+--> sour is really really interesting
+-->MSG and you get used to it (rich + flavorful... "not plesant and lingers")
+Huh:  risk taking is a behavior that leads to a happier life
+sour promotes it (independent of personality) 
+
+
 No meeting August 2nd, 2017
 
 Steven M. Drucker (microsoft research)

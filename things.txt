@@ -1,3 +1,17 @@
+Tuesday CURIS meetings 
+2017 August 8th Mary Wooters (CS Theory)
+Reed-Solomon codes (RS codes) are the standard (used in Voyager space craft, etc)
+if k = number of data blocks
+and n = # of encoded blocks
+we can use algebra to graph the nodes, esentially, (deal w/ storage overhead and fault tolerance) 
+striping data across the server (has first block of data goes on one server, second on second, etc) 
+using algebra to help store all of your data
+picking k or n as "number that is deemed safe"
+
+
+
+
+
 cornell lilian lee
 yejin choi does cool things 
 conotation frames 
