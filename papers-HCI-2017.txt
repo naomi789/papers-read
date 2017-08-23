@@ -1,9 +1,17 @@
+(August 23rd 2017 reading)
+Sorting with Unreliable Comparisons: a probalistic analysis (this is a stats paper??)
+Monte Carlo Sort for Unreliable human comparison (Samuel L. Smith, University of Cambridge)
+Bricolage: Example-Based Retargeting for Web Design (Stanford University HCI, CHI 2011)
+Designing for Effective End-User Interaction with Machine Learning (Saleema Amershi, UIST 2011)
+Overview-Based Example Selection in End-User Interactive Concept Learning (Saleema Amershi, etc, UWashington and Microsoft)
+SketchPlore: Sketch and Explore with a Layout Optimzer (Finland and Belgium, DIS 2016)
+
 (the following was read on August 18th 2017)
 Geting Inspired! Understanding How and Why Examples are Used in Creative Design Practice (University of Illinois)
 
 Design as Exploration: Creating Interface Alternatives through Parallel Authoring and Runtime tuning (Stanford HCI)
 
-Adaptive Grid-Based Document Layout UWashington and Microsoft Research
+Adaptive Grid-Based Document Layout UWashington and Microsoft Research SIGGRAPH 2003
 
 Getting the Right Design and the Design Right: Testing Many Is Better Than One (UToronto and Microsoft)
 
