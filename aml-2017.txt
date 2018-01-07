@@ -1,0 +1,35 @@
+2017 October 11th
+
+
+2017 October 4th Wed 2PM
+
+
+
+2017 Sept 27th Wed
+linear algebra stuff, baesian stuff
+categorical distribution - looks like a giant spinner, stocastic vector, discrete distributions,
+apply baye's rule
+posterior = (likelihood * prior)/marginal
+anchor words: non-zero probability in only one topic (it is zero everywhere else)
+does every topic have an anchor? 
+co-occurance, talked about linear algebra stuff :)
+importance of removing all the diagonals (cannot have 'cat' occur with 'cat' in a document)
+n*(n-1) //the small ones seem to be more important 
+
+2017 Sept 20th Wed
+
+2017 Sept 13th Wednesday AML
+/users
+/users/research/sarahnj
+/users/home/sarahnj <-- put the scripts that make data here (this is super backed up)
+users/scratch/users <-- this is not backed up. Put generated data here
+/users/data/(<dataset>||<user>) <--this is rated but not backed up 
+/local/<users> <-- this is only on my one personal machine, so it will be faster but not accessable anywhere else (maybe put your downloads there, or music that is personal and doesn't need to be backed up)
+
+*yams are potatoes with GPUs
+ssh isn't properly set up
+
+new github repo at: github.com/byu-aml-lab/scripts <--just backup scripts
+
+
+

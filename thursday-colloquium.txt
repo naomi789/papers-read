@@ -1,0 +1,89 @@
+2017 November 9th
+Jason Wiese 
+Enabling an ecosystem of personal behavioral data (UIST 2013)
+Exploring the Effects of Audience Visibility on Presenters and Attendees in Online Educational Presentations (C&T 2017)
+Phoneprioception: enabling mobile phones to infer where they are kept (CHI 2013)
+-too  much data from lots of people
+-putting all of that data together to help people
+-letting people annotate what was happening (current study about air quality monitors (for asthmatic children))
+-how formal an intern was with a mentor (graph across a few hours) 
+
+
+2017 September 28th
+Brian Price, Scott Cohen (from Adobe)
+Professor (??) intorduced the two speakers, Scott got his PhD in CS at Stanford)
+Scott:
+Talked about syntax/formatting issues when you switch computers on word documents/presentations, etc. Talked about how adobe made PDFs and how many issues that solved. 
+Issues with adobe: things not fitting well when you switch screen sizes/proportions. How hard could that be to fix? Because html is actually really good at that. 
+"the PDF language", it's a drawing thing. Don't know which things are text, which are pictures, page border, etc...
+Listed all the weird things people do (cover text up with an image, have text in an image, have text that is the same color as the background, text that is part of a logo, text that is overlayed on a duplicate so that it appears bold. 
+Talked about layout issues and other things that prevent a hureistic set of rules
+What is the first step in understanding the reflow problem? *understanding the document structure*
+Talked about machine learning, creating ground truths, comparing the results, etc
+word encodings (wordToVec, etc), word embeddings
+Brian:
+Handwriting recognition
+putting things on a grid and warping the grid to represent how people all have different handwriting 
+*this is one of my top five BYU Thursday presentations. I'd be interested in interning with them!!*
+"intelligent document creation" (what if you could take a picture of an essay --> the photo becomes a PDF, or take a picutre of math on a white board --> latex and ready for your paper!)
+will we ever read documents in VR? Probably not (hopefully not?)
+PDFs were designed after (static) paper. Could we make PDFs more like the (dynamic) web? Sort columns/rows?
+What about translation? If PDFs translated themselves between languages? WHAT IF you could translate it for age groups? Simplify the vocab so your kid can read it. Or for switching an academic paper into a business style paper? What if you want your CEO to see a PDF and you want managers to see 3/4 of it and the rest of the Co. to see half? What if we could "translate it" into audio for blind people? Or if there was a TL;DR button? 
+What if we could "mark-up language" a PDF? Do what latex does but backwards?
+Or go through large quantities of census data or student exams and turn it all into JSON or CSV files?
+Talked about ctrl+f, what about a button that lets us ask questions? (what is the topic? what is the most important part? was this well written? Will it get accepted to a conference? find other, similar, papers? (these questions would need both word processing and commputer vision (deconstructing info from graphs)
+
+
+
+
+
+
+
+2017 September 14th
+Sebastian Scherer theairlab.org from CMU
+-the idea of an elecctric air taxi is becoming a reality 
+--> needing to get operating costs lower
+other issues:
+-safety standards don't match passenger goals
+-batteries weight TOO MUCH
+-other issues
+
+-showedd video of a helicopter self landing
+-read lab mission statement in a monotone
+
+outline:
+motion planning
+-being able to avoid unknown obstacles, react in real time, avoid no-fly zone
+-infinite set of solutions
+-scaling problems correctly (so you move sufficiently far from the obstacle, but not too far)
+-obstacles are not binary: either safe or not. Some points are more/less safe than other places, so need trajectory optimization
+-global search (BIT*), local search (CHOMP), interleaved search (RABIT*)
+
+recent results
+-learning which edges to check (w/ Sanjiban Choudhury and the speaker)
+-talked about having a limited distribution of environments hat are accessable/safe for flight
+-low light, smoky landing 
+-testing fist-sized drone flight (having them fly through coridors with loops and show building)
+-detecting oil/wood fires on ships (small doorways, lots of smoke)
+-presented this idea to Pres. Obama (the robotics struggle is that if things work well then nothing exciting happens). 
+-how closely can one fly to... a tree? a building? 
+-landing: can it choose to not land on tall grass? what about a large, flat service in the midst of grass (aka it's a lake! #fail)
+-semantic scanning (can it avoid things 
+
+summary:
+-nominal autonomy  is feasible
+-but we're not much further beyond that...
+-talk about possible emergencies (GPS goes out, electrical fire on board, bird crash, etc)
+--> Air France Flight 447 (autopilot shutting off in an emergency)
+-needing tight bounds for sufficient performance 
+
+questions:
+-emergency manuvers? maximum bank turns? 
+-batteries and newer technologies (running off solar panels)
+-how safe do we want self-driving-air-taxis to be? 
+-->commercial flight = super safe. Medivac helicopters = super dangerous. 
+-being able to classify things (flat landing surface v. water, etc)
+-overlap bw this and self-driving cars (not needing to notice WHAT the obstacle is)
+
+future work and discussion
+-
