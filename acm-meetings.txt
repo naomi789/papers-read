@@ -1,0 +1,5 @@
+2018 January 31st Wednesday
+Horizontal scalability
+Monoliths 
+Load balancers
+
