@@ -1,0 +1,19 @@
+2018 Feb 9th
+Probabilistic Sampling
+Gibbs Sampling
+Monte Carlo method (iterates over all the nodes)
+Markov blanket (is it fixed or not. For some node in space, I need to know it's parents, if there are multiple parents, all of it's children, and all of the childrens' other parents. Does NOT include grandparents). 
+Just loop through all the variables 
+
+L -> Z -> W
+where Z and N are on a plate N (replicated N times)
+and W is observed
+
+f(L,Z,W)
+=f(L)*product (i-N)f(Z|L)f(W|Z)
+=probability of a label in our universe 
+
+a distribution over categories --> categorical
+
+
+
