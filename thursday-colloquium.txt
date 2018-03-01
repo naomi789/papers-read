@@ -1,5 +1,13 @@
+2018 March 1st
+Mark Richards General Imperfect Game Evaluations
+-history of how long it took us to make computers that can win checkers, chess, go, etc
+"this is not man vs. machine, it is man the performer vs. man the toolmaker" --Joel Benjamin
+-talked about letting machines cheat a little, and how that changes the game
+(for example, in scrabble, letting someone see what letters the other person has)
+
+
 2017 November 9th
-Jason Wiese 
+Jason Wiese (U of U, HCI presentation) 
 Enabling an ecosystem of personal behavioral data (UIST 2013)
 Exploring the Effects of Audience Visibility on Presenters and Attendees in Online Educational Presentations (C&T 2017)
 Phoneprioception: enabling mobile phones to infer where they are kept (CHI 2013)
