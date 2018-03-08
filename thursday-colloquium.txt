@@ -1,3 +1,18 @@
+2018 March 8th
+Philip Pare (Virus Spread Over Networks)
+-viruses, like Zika, Ebola, spread from person to person
+-good things, like awareness of social issues, also spreads 
+-good/bad things, too--- like having more walmarts, etc
+-talked about things can all be connected 
+--> can represent that over graphs
+--> can represent that with matricies
+-different ways of looking at this:
+--> no graphs
+--> (i forgot)
+-->discrete time graphs
+-->(note that many different schools have studied this: biology, math, etc)
+
+
 2018 March 1st
 Mark Richards General Imperfect Game Evaluations
 -history of how long it took us to make computers that can win checkers, chess, go, etc
