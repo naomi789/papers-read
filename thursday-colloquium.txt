@@ -1,3 +1,22 @@
+2018 March 13th
+Kevin R. Moon, PhD from Yale:
+Unsupervised Data Visualization for Big Data Exploratory Analysis
+(Faculty candidate at for BYU CS, got BS in EE at BYU)
+-predicting solar flare occurances by using images
+-looking at brain scans of people with epilepse to determine likelyhood of seizures
+-collecting data from cells/molecular biology (to look @ effects of aging, curing cancer, autoimmmune diseases, etc)
+-single cell v. multi cell data collection
+Went into a discussion of why you want to be able to visualize big data. 
+Challenges of visualizing (biomedical) data
+-how mnay features can you mark (2D, 3D, 6D, 200D...?)
+-high dimentions
+-noise and artifacts (relationship bw to genes can be extremely distorted or destroyed)
+Discussion of different algorithms/etc: MAGIC, PHATE, etc
+Lots of linear algebra things that I didn't really understand... 
+Truncated gaussian, fixed bandwiths, decays of tails, diffusion denoises, big eclidean steps, etc
+SAUCIE = spacre autoencoder of unsupervised clustering, imputations, and embedding on bioArxiv
+
+
 2018 March 8th
 Philip Pare (Virus Spread Over Networks)
 -viruses, like Zika, Ebola, spread from person to person
