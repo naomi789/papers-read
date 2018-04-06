@@ -1,0 +1,12 @@
+Dr. Casey Deccio, on networking
+2018 April 5th
+
+Name resolution in DNS
+
+iptables
+
+dig [name of website]
+
+shorewall
+
+port forwarding 

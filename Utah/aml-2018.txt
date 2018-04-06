@@ -1,3 +1,38 @@
+2018 March 24th Saturday 3PM
+Jeff Lund's presentation on NLP: "We'll introduce statistical natural language processing (NLP) 
+with a language model built using Markov chains. We'll cover roughly a week or two of material 
+from CS 479 (the now defunct NLP class). By the end of the workshop, 
+we'll having a working procedural name generator, and hopefully a glimpse into what NLP is all about. 
+My goal is to make the material accessible to all, but familiarity with Python will help."
+
+Used: https://github.com/gautafrithuz/TheYhack-NLP
+
+Probability Primer
+-chain rule
+-baye's rule
+
+Why use a language model: 
+knowing if you misheard something. 
+(wreck a nice beach v. recognize speech)
+Working with Alexa (you speak different things with her)
+Information retreaval (getting documents related to what you want)
+
+Markov Property/Chain
+Example of likelihood of predicting tomorrow's weather given ONLY today's weather
+(and ignoring yesterday's, last month's, etc weather)
+We're about to do this with words. Ignoring all the other words in a sentence EXCEPT for the current word...
+--> Apply the chain rule again and again #reapplying
+
+Talked about how much data you need depending on whether or not you are only replying on the first 
+or all previous words. 
+
+Now turn to first example from github
+(by first example, I mean 0th example)
+
+
+
+
+
 2018 Feb 9th
 Probabilistic Sampling
 Gibbs Sampling
