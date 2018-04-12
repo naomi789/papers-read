@@ -1,4 +1,9 @@
 2018 April 12th TBA Amy Williams
+-talked about her talk ``Amy Williams atheist'' (where she explains you can do science and still be religious)
+-talked about figuring out who is related to who while having limited data
+-23&me, anscestry, family search, etc all super interested in figuring out these connections
+-uses hidden markov model
+-talked about various ways of testing and looking at all of that stuff
 
 2018 April 5th => nothing :(
 
@@ -66,7 +71,7 @@ Phoneprioception: enabling mobile phones to infer where they are kept (CHI 2013)
 
 2017 September 28th
 Brian Price, Scott Cohen (from Adobe)
-Professor (??) intorduced the two speakers, Scott got his PhD in CS at Stanford)
+Professor Brian Morse intorduced the two speakers, Scott got his PhD in CS at Stanford)
 Scott:
 Talked about syntax/formatting issues when you switch computers on word documents/presentations, etc. Talked about how adobe made PDFs and how many issues that solved. 
 Issues with adobe: things not fitting well when you switch screen sizes/proportions. How hard could that be to fix? Because html is actually really good at that. 
