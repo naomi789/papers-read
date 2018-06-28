@@ -1,0 +1,72 @@
+Mark Novak 2018/6/25 
+1. Background
+-hired the day windows95 shipped
+-has always been interested in security
+-got masters degree at UW
+-works with Azure to build cloud services 
+-ethical hacking
+2. Security 
+-assume breach (you cannot defend the perimeter--- assume the attacker is already on the inside and they know everything, except they do not have the key on your id card)
+-assuming a breach means you have to trace him. Figure out what they left behind. 
+-apple keyboard security bug (reinstalling OS to computer makes no difference)
+-respect your attacker (no attack is too far fetched, nothing is too sophisticated)
+-levels of security: none, keeping someone out of your desk drawer, and keeping the courtry safe (no in-betweens)
+-ASSUME that in an attack, an administrator will be bribed to give out their password or something
+-when we test security, we hire friends to try and poke around (BUT our customers DO NOT WANT us poking around in their stuff)
+-side: said that microsoft is growing because of azure and the cloud
+-side: "cybersecurity is job security for life" "I can't think of anywhere that has more fun" 
+-distributed denial of service is the "by far the most pernicious" of attacks. Hard to recover from stuff being deleted. Easier to prepare in case people alter existing data (check  to see if it is right) or make fake logins (again, just check). 
+-one risk is hackers getting "free trial subscription" (DDOS problem)
+-Azure was really popular early on but they weren't making a ton of money (turns out hackers were passing credit card into around, in free trial accounts)
+-talked about how utility company DOES NOT KNOW what people are doing with the electricity and water that they are buying. Similarly, Azure does not know if people are hosting child porn websites or what.
+-Even if you do your taxes with HTTPS, someone can pinpoint what tax bracket you are in based on what tax forms you filled out
+-Question about algorithms and RSA and stuff. Cryptography research. BOOK: by Neal Furgeson "Cryptography [something something]" explains/discusses how important it is to really understand these algorithms in order to be more secure. 
+-Metaphor of building a castle--- what kind of bricks, mortar, how many windows, forgetting a ceiling, etc. 
+-Discussion of tellemtry and knowing when and how to get rid of old algorithms/etc
+-ethical hacking (are we worried that people are doing this and pretending to be ethical but are actually bad guys)
+-You get a list of parameters and rules to follow
+-Breaking your contract would be a career breaker (side note: dumb intern who said "wow! You have all this data! You know you could sell this and make so much money!" <-- sure, maybe he as joking, but... )
+-XBOX ONE was created by really really paranoid people (so paranoid that it hurt business, which is something worth considering)
+-if you find an exploit, you are ethically bound to report it, and they will write you a check and give you "street cred" (and this is better than selling to the "highest bidder", which is usually the dark web)
+-discussion of whether or not you can get sued for telling a company that you found a bug (the idea of bug bounties and stuff)
+3. how I protect myself/how can I be more safe? 
+-Russian dictator said "secret known to more than one man is not a secret" 
+-stuff that you don't want anyone to see should NEVER leave your one computer and be encrypted with a very strong key. Anything else could be subpoena'd/retreieved/found and really shouldn't be trusted or considered secure. 
+-How paranoid do you want to be? 
+4. Day to day:
+-went through and talked about different concerns that he thinks about daily
+-getting remote servers on cloud to know when to trust someone who wants to attach a debugger, etc
+-when hospitals want to share data without violating customers' privacy (especially when there is uninformed hospital employee)
+-security people are NOT ONLY supposed to make things secure, but make these secure things USABLE
+-other people think about: privacy, accountability, sureillance, getting AI to work (self driving car: should it kill the driver, the old pedestrian on one side or the toddler on the other side of the street? How to ethics? That is much more difficult than the question of fixing security. We don't know how to think about this.), etc.  
+5. Self-based authentication:
+-thumbprints, eye, facial-recognition, etc
+-what if you're asleep and someone scans your face?
+-a lot of modern apps are favoring usability and convinence over actual security. 
+-what if you're storing something on that device that is worth cutting off your thumb for?
+-what if there is a keystroke-logger? A camera recording what you type? 
+-talk about the idea of trusted input between a keyboard/xbox controller and a device. 
+-trusted input/secure input is the holy grail
+6. Supply chain and international security. 
+-major area of investment for every cloud vendor right now
+-what if a government mandated components, etc? Like, in China, they have to do things a certain way to deal with laws and stuff. 
+-lack of rollback protections is one really big issue... 
+7. How does security have to deal with HCI? 
+-one big thing is two/multi-factor authentication
+-or preventing hacked devices from giving up fingerprints and stuff
+-a backup code so that if you enter it, everything gets destroyed
+
+
+
+THINGS TO LOOK UP:
+-quantum computers (WHEN will they blow up modern cryptography??)
+-what is a silicon attack
+-Is this a book? ("Robert Holes"'s crypto analysis) 
+
+
+
+QUESTIONS:
+-what is a typical day like?
+-what subfields of security are there? (say if wanted to go to get phd/ms in cs)
+-why should we do CS?
+-where is "blackhat"? Is that ACM/IEEE?

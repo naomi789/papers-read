@@ -1,0 +1,468 @@
+2018 June 27th Wednesday: 
+1. Maria Alvarez
+-people won't remember what you said, or what you did, but how you made them FEEL (quoted someone)
+
+2. Brooke Low
+
+3. Sylvia Ann Hewlett (Center for Talent Innovation, CTI)
+A. survey about percieved bias, etc
+-ability, ambition, committment, connections, emotional intelligence, executive presence
+-more bias is felt by non-white, black, disabled
+-men on flex schedule also get dinged 
+-if you are DOUBLE minority, are in extra trouble
+-gay women are more successful than gay men
+-Asian men, especially in mid 30's, feel unable to get up the leadership ladder
+-overall, if you percieve bias, you are less likely to move up
+
+-I am not 100% clear how to read the visuals she is using...
+*How can I get that survey/see the text of the questions
+
+B. impact of bias:
+-people who percieve it:
+i. burn out (feel alienated, participate less, do not suggest friends come work here)
+ii. bust out (quit, leave company)
+iii. blow up (deliberately sabotage company by publically saying bad things, slowing down/not working on important projects)
+
+C. what to do:
+i. Diversify leadership
+-
+...% less likely to percieve ACE bias/issues
+...% more likely to be engaged  
+ii. lead inclusively
+87% less likely to percieve ACE bias/issues
+...% more likely to be engaged  
+DO THIS BY:
+1. share credit of success
+2. 
+3. 
+4. 
+5. 
+6. 
+
+iii. create a culture of sponsorship
+90% less likely to percieve ACE bias/issues
+21% more likely to be engaged 
+-how to sponsor (because this is something you can do next week)
+-find someone who has great value & is very different from yourself
+-try to make a reciprocal relationship so you BOTH benefit (this is not mentoring, goal is you both move up the ladder)
+-case study: Carolyn Soper (Straight, Disney, loved film) and Lydia Bottegoni (Gay, financial type at CITI)
+-being loyal, being willing to do grunt work, slowly moving up the ladder
+1. find three protegees
+2. include and invite into world
+3. inspire
+4. instruct
+5.
+6. inspect a deal
+7. 
+
+D. Easing racial tensions at work (a book, worth reading)
+-things have been getting worse
+-91% of white college grads have exclusively white friendships
+-83% for black, 64% for latinos
+-neighbor racial trends are also very homogeneous 
+-BUT that is different at work
+-numbers of people who are scared of experiencing discrimination/bias outside of work for selves/family
+-AND. They feel like they CANNOt talk about this stuff at work. 
+E. Stories about DIBs (diversity, inclusion, and belonging)
+-told a story about a rich black family moving from England to Houston and being told by the private school headmaster that he needed to introduce his sons to the police department for their safety
+-someone who went to fix problems in fox news. He recommended:
+
+i. reveal yourself (instead of asking invasive questions). NOT oversharing. 
+-for example, talk about your child who just switching majors
+-ask for their advice (this helps them feel like a peer) 
+-they might be more likely to ask you for your advice, and as this cycle continues, they become friends
+
+ii. include in your life
+
+iii. break bread
+-breakfast, coffee, lunch, etc (outside of the cubical)
+
+E. value propositions intersect with competitive strength
+-CTI's research:
+i. Women Want Five Things (2015) (covered US, UK, and Germany)
+-mid career women (ages 35-55) want different things then men
+-just like men, want money, power, etc
+-unlike men, they also want: 1. to thrive, 2. to be empowered and empower others, 3. 
+(to clarify, men also wanted this, but those three desires were low on the list for men)
+-many women in tech DO NOT have children (like 50%, I think they said?)
+-looking at money/investors and how women v. men interact with banks
+-do Chinese women v. white women have different purposes? 
+-how important are altruism, philanthropy? 
+-how do we get this data, in order to better understand what life is like for these different groups and how we can use the potential
+-the biggest emerging market in the world is not China, it is women
+
+ii. The Power of the Purse in Financial Serivces (2016)
+iii. The Power of the Purse in Health Care (2017)
+-discussion of how cool AI is and concerns that we will teach AI to be racist
+
+F. Her life:
+-talked about feeling like she needed to "fix" her accent (welch and poor/slangy white)
+
+G. Opening the floor to questions (for last 20 minutes)
+-Geographic places where companies are located, and how to factor that in
+-what activities are correlated with increased retention? A sponsor. 
+-what if I can't sponsor? Sponsor interns, etc, it doesn't have to be at the top of the house. 
+-outside of our company, how can I help? Academia is second only to the military in terms of sexual exclusion (and harrassment?) (answer: sponsor people)
+(note: I think sponsoring is her crusade and she will suggest that as an answer to every single question)
+-who does/does not have kids in tech? 
+-17% of men at age 40 in tech do no have kids, but 50% of women at that age do no have kids (the number is similar in finance, as with many competitive fields, and the number is going up)
+-only 14% of gay couples have kids
+-the school system and how that decreases diversity
+
+
+4. Group discussion: 
+-women not having kids, when they leave tech
+-sponsoring (will put your name up, speak up for you, usually long-term, often switch fields to be with sponsor. In mafia, the patron or the godfather.) v. mentoring programs (like a year or something, etc)
+-men just pick it up 
+-nepotism is an issue
+-
+
+
+5. DIBs lightning talks
+A. first person
+-switched from university recruiting
+-talked about how 3% of the pool was black/hispanic/female
+-had to compete against google/FB/GS/etc
+-"the satya effect" students were hearing great things about Microsoft and the growth mindset
+-hiring managers who are hearing YES and NO from different people about each candidate
+-how many HBCUs will we visit, how many people at GHC, etc is NOT THE ONLY WAY 
+-we need to change our culture of interviews (which is 40 years old)
+-instead of needing people to apply to ten jobs, we made ten jobs all have the same application
+-tried to hire people who could fit in many different spaces
+-talked about when she was hiring, she felt more energy when she interviewed people from her alma mater (NOTHING to do with their skills)
+-what is "the bar" what is "screening in" and is screening in lowering the bar? 
+-she wanted to switch from university recruiting, but didn't plan on going into diversity and said "I wouldn't hire myself for this role"
+-she says her success was because her manager gave her a great team
+-helping a candidate feel like they belong, feel like we see their strengths, etc
+
+B. Tanya (Glass? Tast? Class?)
+Dare Obasanjo is from Nigerian, is 40 years old, dad was president of Nigeria in 1980's (put in jail for wanting democracy)
+-talked about the movie superman 3 (if you have a computer you can beat superman)
+-attended Clark Atlanta University for CS, got an internship at a small company
+-realized that he was at the wrong school, and needed to be at Georgia Tech to be taken seriously
+-so he switched schools (didn't  become smarter, didn't become more passionate, didn't like CS more)
+-graduated from Georgia Tech
+-and has been at Microsoft for 16 years
+-our demographics reflect how we hire
+-talked about trying to help a friend get an internship here. Black hole, didn't work, kid went to Apple. 
+-once Apple expressed interest, Microsoft tried to hire him
+*wired article about which companies hire from where LOOK FOR THAT VISUAL AGAIN
+-retention is even more important than hiring
+
+C. Tamnit Gebru is a post-doc in NYC (with Microsoft? NYU?
+-does ML, AI, data science
+-hirevue, wall street, greatly influenced by AI
+*Weapons of Math Destuction Cthy ONeil
+*Automating Inequality
+-judges use algorithms to decide if people should get bail/will commit a violent crime again)
+-ICE's "Extreme Vetting Initative - Overarching Vetting" (should we use AI here? How accurate?)
+-Istael arrested a Palestinian bc a FB post mistranslated "good morning" into "attack them"
+-word embeddings, gender analogies, from word2vec (he:king and she:queen; he:computer scientist and she:homemaker)
+*the perpetual line up (2016 book)
+-talked about facial recognition and how these get worse and worse as skin color gets darker and darker
+-currently, no standards, laws, documentation... anyone can use AI for anything (talked about Apple's datasheets for hardware; we need datasheets for data/pretrained models/AI)
+-can't talk about diversity without the bar
+*really like this next part: compare AI to automobiles
+-when automobiles came out: no stop signs, no seatbelts (until 1967), no drunk driving laws, no driver licenses, no airbags (not tested on women) etc
+-there was a big question of whether automobiles were inherantly evil
+-the minority should be called: THE UNDERSAMPLED MAJORITY
+-we need safety measures, and need to take bias seriously
+*SHE MIGHT'VE BEEN MY FAVORITE SPEAKER (and was so far)
+
+D. Sophia Velastegui
+-having a personal board of directors (everyone has heard about companies doing this)
+-we've talked about mentors, advocacy, sponsors, etc
+-the importance of having different opinions
+-consider: internal/external, in your field, situation, leader, new person, same or different generation, their age, gender, sexual orientation, etc
+-talked about working as a Mechanical Engineer and then switching to be a Program Manager 
+-made a diverse network and talked about interviewing to see if she wanted to move up or switch fields or switch companies or.... 
+
+E. Paul Bennett (whom I had breakfast with) and Sumit Basu
+-both members of an allyship organization
+-talked about not being as much of an ally as he could have (was filmed instead of a black woman because her skin was "too dark" and the lighting "didn't work"
+-noted that they are not experts
+Advice: 
+1. Listen 
+
+2. Reflect on your own behavior (biggest change you can make is in yourself) 
+-talked about a job talk and realizing that they were nearly attacking her by the way they were asking questions
+
+3. Understanding your privilege
+-if you are in a majority group (race, gender, religion, etc)
+-social activities might be designed for people like you
+-you might not be expected to be "the face" for your company, etc
+-do things about it: if you have a "louder voice" help the quieter voices be heard
+
+4. Focus on substance, not surface properties
+-build bridges 
+
+5. Send support through gentle signals
+-mention to others that you walked in pride parade (shows LGBT people that you are supportive and shows straight people that you care)
+
+6. Call out others gently, EVERY TIME
+
+7. Be willing to take risks (by standing out)
+-be willing to put your skin in the game
+
+8. Don't walk away, mistakes happen
+-be willing to reflect and apologize when you make mistakes
+
+9. Think about what you personally can do 
+-allyship is not something for "someone else", you need to find out what you can do
+
+Others: 
+-cycle of listen, reflect, and act
+
+F. Open to questions from the past several talks: 
+-are we comfortable enough to speak up to our managers about this? 
+-what can hiring managers do?
+-what should we do when people want us to help them get internships? (if their schools aren't on microsoft's "list")
+Several people complained about these internal resume databases (black hole, too slow, etc). Referral process has been "terrible" for a long time. 
+Two months ago, a new one was implemented (goal: more visibility for candidate AND employee)
+Talked about a sharpoint with info on this? 
+Watch out for self censorship "we're not looking for candidates like this" and starting the process earlier so we have the time to be flexible. 
+-how do we promote diversity of experience? (she has a finance/economic background and asks "basic questions" but people haven't ever considered them)
+Talked about schools that they don't go to often enough. Push to see more HBCUs. 
+Needing to change the way she thinks, rewire how her brain does interviews. 
+-talked about how self awareness is the first step. What do we do next? 
+Sumit Basu seconded a personal board; getting different opinions. 
+Tamnit Gebru feels like she has to mentor and be on a board for a lot of people. Said another good step is pushing back on racist comments. 
+Sophia Velastegui says don't ask "will you be on my board" it's like going on five dates and then saying "let's get married and have five kids"
+Instead, say "Do you have 15 minutes to go and get coffee?" Everyone has 15 minutes, but outlook books in 30 minutes so you might get extra time ;)
+Also, ask good questions while you are there. Be fruitful, focused, and direct. 
+Eat or drink during that chunk of time. 
+Then tactically, ask "could you recommend three other people that I should talk to?" (instead of "is there anyone else I should talk to?")
+*Be prepared, if they ask "how can I help you?" HOW WOULD YOU ANSWER THAT. Be prepared with an answer before the conversation. 
+-What about friends who want jobs here? They don't get the same pointers and tips that we give our friends. 
+Talked about scalling interview prep, etc
+
+G. Graphic designer who is taking visual notes on our meeting
+-talked about how a dream without action is a hallucination
+
+6. Networking Lunch
+
+7. GenderSpeak workshop (gender diversity)
+Tammy Hughes
+-people have good intentions (do things for well intentioned reasons)
+-talked about how men and women have different childhoods, communicate differently, and need to learn how to work together
+-today's talk is about exploring the differences: this is not about rights/wrongs or goods/bads
+-we could do this with the lense of men/women or LGBT or race
+
+A. Dimensions of diversity:
+-we will camp in the middle of each bell curve (not all men or all women are one way or the other)
+-small -> big circle (personality, human, cultural, organizational, biggest circle = interacting, problem solving, and delivering)
+-learning stages: awareness, akwardness (using new tool first time), skill (takes a lot of cognitive activity), and habit (do it without thinking, like maybe driving to work)
+-today we'll be in awareness bucket
+
+B. Culture:
+-what made you uncomfortable in a new culture? (different country? marrying into a family?)
+-language and punctuality (his country is all about flexibility, not punctuality)
+-talked about being the only Chinese person with a big, vocal team of Americans (her country "speak three times before you talk") and not being able to talk about the ball game
+-talked about studying abroad and getting two host sisters (compared to growing up with brothers) 
+-talked about marrying into a outdoorsy family that lived in a cabin with a wood stove
+
+Why was that hard?
+-scared of offending someone
+-sacred of making a mistake
+-feeling like an outsider
+-worrying about being appropriate/fitting in
+-realized they have a cultural norm/have strong rules
+
+What did you learn from the new culture?/new value
+-enriches perspective and outlook of worldplace
+-more appreciative of those differences
+-if I felt uncomfortable BRIEFLY, what is it like to feel that all of the time
+-often don't feel there was any value until after experience overs
+-people are more similar than different
+-maybe learn that you prefer your own culture
+-maybe never really adjust and always feel difficult and awkward
+
+*note: more similarities than differences between men and women. It's the differences that cause the hiccups at work. 
+
+Talked about how people very similar to you might have very different cultures--- but there are still differences. 
+
+Hierarchy v. flat structure
+-young female hire believes it is her job to ask questions about a new assignment, male mentor believes he is higher up and shouldn't be asked that kind of stuff
+-when do men and women get treated differently? 
+-what was your favorite toy/activity/game as a kid? 
+-talked about how male infants are much more likely to look at mobiles/machines/lights and female infants look for eyes and a mouth
+-side tangent: generation after millenials didn't play outside, how will this change the workplace? 
+-side tangent: toy companies expirement/produce in quarter 1, sell in Q3, and make 80% of profit in Q4
+
+Research:
+-boys like toys with speed, power, and noise (have not changed for 50 years)
+-girls pick toys about creative and relationship
+-almost all gender research is done on boy/girl twins
+-might be picking the same toy, but they play with them differently (girls have two dump trucks be friends, boys make noises for doll strollers)
+-bands of acceptable behavior is very broad for girls, not boys (manly girls are tomboys, girly boys are pansies)
+-but it is FLIPPED for men and women (women cannot be aggressive or the are b/witches, men are more permitted to be emotional parents)
+
+AMA American Medical Association:
+-sessions for male v. female doctors and a session for new hires
+-talked about the men putting panel up on a stage and young people in classroom-style rows
+-for the first time ever, female doctor was in charge, and had room set up in a big U shape
+-"Why did you set up the room so weird?" said a male doctor
+
+Power dead-even rule:
+-women tend to be less supportive of women who are moving up the chain
+-the way you talk to and treat female assistants: man says "I need this project by 3pm" If a woman says that, she is not likely to get it. She would probably say "How was your weekend, how did your kid's soccer tournament go, etc etc"
+-what the male hears is "optional, if you can do it by 3pm" (then is upset when he gets in trouble because it wasn't done)
+-talked about group of companies. All managers of power plants = run by men, except for one. She had the best plant! Her manager said "Highest customer satisfaction, most effective, etc" BUT "She'd be so much more successful if she'd stop talking to all of the employees"
+-both men and women prefer to have male managers
+
+*note: "I need this by three" story and best plant. Perhaps good to use to 
+
+Goal focus v. process focus:
+-"I need a black skirt" and takes husband shopping (he thinks the first one will be good enough, but she wants to go to several stores and have lunch together)
+-"which shoes look better" (She wants to talk but he thought she wanted him to decide so she could stop being confused)
+
+In the workplace: 
+-when a woman asks five coworkers for advice but only follows one person's advice--- other person who's advice was not followed is offeneded
+-a better thing would be to set expectations of you wanting to talk to several different people and that you will make decision later
+
+*perhaps prof was hurt that I talked to so many different professors. I should tell co-author that I am going to try and meet with several different professors. And I should tell those profs too. 
+
+-talked about a woman who used the one hour with a C suite to tell all the different things that were going wrong and ask for advice (meanwhile, male coworkers were going in to say all the things that were going well)
+*note talk to interns about this
+
+continuing Goal focus v. process focus: LINEAR FOCUS V. MULTIPLE FOCUS
+-comedians and researchers talk about how men have several different "boxes" and men might think about just soccer, and then just work, and then just family
+-but women crowd up several boxes all together and these boxes are all crammed together and switch between different tasks more often then not
+-woman didn't get promotion because she was "scattered" (said male manager) and woman says it was preferred and comfortable
+-woman managers often come up to her and complain because male employee has five jobs and does them one at a time
+
+WHO IS A GOOD EMPLOYEE:
+-the question is: do they produce results? 
+-not, are they diverse? Not, are they frustrating? 
+
+Different rules of talk (risk taking/making things up v. honesty)
+-ask two people how they would solve a problem:
+--man says "A, or B, or alternatively C"
+--woman says "Hmm. I'm not sure... I might try A, but drawbacks. B would be nice, but too expensive. Maybe C, but I don't know if it would work..."
+-ask man and woman what they will do in the future:
+--90% of men say "I will" and 90% of women say "I hope to" and "I might" and "I want to"
+
+*this is a point for my women/world paper: is one way the wrong way? or is it just different? 
+
+Different rules of talk and linguistic devices:
+-hedges "try"
+-disclaimers "this may not be a good idea but"
+-tag questions "you know?"
+--> result? This can kinda sound like they don't know, maybe."
+So female managers are not likely to tell female employee "tomorrow you will do this by that" 
+
+Men do "male bonding" by saying "nice clothes--- what did you do, sleep in them last night?"
+*realization: that is why that intern was teasing me yesterday. He wanted to show that we are friends. 
+-Women do their bonding by talking about home life. 
+-When women who try to use verbal bantering often end up thinking about it after and wondering if they did it right
+-Don't expect all right handed people to try and be left handed in order to fit in better
+
+Success v. failure
+-get a very diverse group, and arbitrarily tell 50% of people they aced it and 50% they failed
+-women who succeed: it was because of my team, luck, external factors
+-men who succeded: I did it! 
+-men who failed: you didn't give me enough time and the answers weren't clear
+-women who failed: it was because of me 
+*make sure that is in there
+-note the comic of women trying on pants "I need to go on a diet" and man "these pants shrank"
+
+-story about a woman being interviewed for a job and kept talking about success coming from those around her
+
+*question: Lean In and other books seem to suggest that women should learn to communicate like men. Thoughts? What should we do? 
+
+Leadership (command & control V. involvement)
+-women are expected to show some agressiveness to be a successful leader
+-discussion of where "bands of acceptability" are (different in NYC v. Seattle, tech v. fin, etc)
+-biggest determining factor is who the leadership/management is
+-talked about a woman being told she had been "kurt" in a meeting (asked if she would be told the same if male)
+
+Meeting rules:
+-Friendliness (like in a rubberband: can act friendly, but goes back to before. Fights? Goes back to before) v. friendship (whether at work or outside)
+-what happens in the meeting (sometimes men decide beforehand (in cafeteria or golf course, fine--- washroom? at bar in evening? NOT OK), but women view that as slimy)
+-speaking at length v. briefly (men get like 80% of airtime in meetings, women get little because they want to take turns and not interrupt) 
+-used to be #1 complaint of female employees "she doesn't speak up in meetings"
+-Declamatory voice v. phrasing as question (makes men look smarter and women look bossy)
+-Women are much more likely to interrupt
+-Men resist being influenced in public
+-Women smile more in public (which is considered "silent applause"... Men think it means they convinced her)
+-Nodding from men means I agree, from women it means 'I am listening and you can keep talking'
+-people misreading nodds--- one woman now puts two fingers under her chin so that she can not nodd and accidentally agree
+
+Invisible rules:
+-wear both lenses
+1. reinterpret intent 
+2. flex your style (ONLY sometimes)
+3. talk it over
+
+Celebrate the differences and leverage the strengths
+*chopsticks v. silverware
+*mosiacs wouldn't be pretty if each piece was exactly identical 
+
+8. 3:00PM Kahoot Quiz
+
+9. AI&R Panel with AI&R
+Harry Shum, Michael Schwartz, David Kou, Eric HOrowitz, Peter Lee, Kuja Matad, Jordan Rivers
+-note the all-male panel (FTE next to me was pretty upset about that)
+A. Panel lead by moderator
+-talked about how there are different teams 
+-instead of saying "let's get a beer" instead say "Let's get off campus-- where would you like to go eat/hangout/get something to drink?"
+-talk less declaratively in meetings (count how often you do that v. ask a question in meetings(which tends to result in more people participating))
+*note: I love these all-day learning sessions (for some reason, they seem cooler than school... why do I have that mindset??)
+-talk about how we can better include the remote participants of our virtual meetings
+-talk about making everyone sit in different seats in the meetings (meet different people, get different perspective)
+-including extraverts v. intraverts
+-talked about how people have said researchers = brains and developers/engineering leads are inferior brawn (how they've been trying to fix it for the past few years)
+-microsoft used to value very argumentative people
+-trying to work on being less interrupt-y, letting people finish their points
+-talked about requiring that a minority be interviewed for every position
+(architecure/hardware groups had a really hard time with that--- didn't think that it would possible, but since then 45% of new hires were women and racial minorities)
+-realist dude said "we're not doing very well" and talked about the pipeline but also the microsoft gate
+*I need to make sure that I make it clear that it's not just diversity but also inclusion and belonging
+*talk about making minorities come but act like the white men is not the way to breed success
+-talked about offering 3/5 and 4/5 time after maternity leave
+-highlighted Paul (breakfast dude) and his ally program
+-asked what these panelists will do
+B. Open questions
+-why isn't leadership more diverse? 
+Jim Weinstein was just hired. Wants Microsoft healthcare to be bigger than any of the nich companies. 
+Talked about what he did, wrote "bible" about being a CEO of healthcare
+Talked about LT (leadership team?) and trying to get more diverse people onto those teams
+-How can we remove bias from our software and AI?
+Working group called "Bias and ??" on the ethernet committee (on bias with facial recognition)
+-How can we give feedback on diversity and inclusion?
+Although there is an anonymous feedback survey, management can easily figure out who said what because there are so few minorities. 
+How can we make it easier for them to feel safe while talking?
+We have been adding more questions, especially for engineering groups. 
+People have been sending an anonymous questions. 
+-Question about management/sponsoring/mentoring
+Worries that people only tell managers what they want to hear. Leaders need to go get out and hear from the frontlines. 
+Expects that, as a mentor, he learns just as much as the mentee learns. 
+Should feel like it is a safe space and you can say things. 
+-How can we include conservatives/people of diverse mindsets? 
+Go back a few generations and see how "right" and "wrong" has changed dramatically every few decades
+Respect others. Realize they have different backgrounds. Be empathetic. 
+Step one to intellectual diversity is getting physical diversity. 
+Talked about glad that he was safe to ask that question--- hopefully we can raise that level of safety in all of Microsoft. 
+Talked about the difference between Chinese college admission and American college admission
+Said our company has not yet been tested on this. 
+-Piggy backing on previous' previous question
+How can we get better data about this? 
+We look at results by gender, race, and (some third factor)
+There are questions on diversity/inclusion. Since two years ago, there is a "diversity index" in addition to the "workplace health index"
+-Diversity numbers are tied to performance 
+We have specific numbers for: women, black, hispanic groups. Must hit those diversity numbers or will not get "reward"? (what does that mean?)
+-D&I: it's not just hiring but also in the workplace. And at home. How can we be more senstive. 
+Microsoft has a headstart bc we are large, international, etc (like we got to make statements about ICE earlier this month)
+We can also do initiatives (AI For Good, AI for the Earth, etc)
+We can talk about human rights
+PERSON IN THE AUDIENCE JUST SHOUTED OUT "At the next panel can we have a woman on it???"
+
+10. Summary (before happy hour)
+A. Commit to do something
+B. Provide feedback
+C. Get involved 
+
+
+
+
+
