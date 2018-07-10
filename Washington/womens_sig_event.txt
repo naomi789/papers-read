@@ -70,10 +70,52 @@ Too poor, too artistic/too nerdy, too short, too loud... has always been a misfi
 N: Understand who you are and what you are good at: build upon it and make it your superpower. Don't try and pretend to be someone else. 
 They were taught "to norm". We're being taught to be ourselves. 
 
+***************************
 
+10AM Ana-Maria Constantin, "Feeling 22 (@Microsoft)"
+Graduated from Harvard in 2016 and immediately started in Microsoft
 
+Said two years ago there were fewer girls
+Talked about interning at both MS and GS as an undergrad, HS in Romania before coming to the states
 
+Talked about wecode 
+Q: what is that?
+Talked about being a google/anita borg scholar
 
+Suggested: make a list of what things matter the most. What gives you a sense of purpose? What makes you feel accomplished when you get it done?
+Ended up a list of nine important things, with three super-priorities
+Said she tends to overthink as she considers options
+N: she showed clip art "it was never a dress" of the clip art woman on most bathroom doors
+
+Talked about Microsoft Azure:
+Hyperscale. Enterprise Ready. Hybrid. 
+(Amazon/AWS only has two, Google only has two. We have all three)
+
+Talked about day-to-day aspect of job and what she usually works on
+34 Azure regions (twice as many as there are AWS)
+
+She's talking about how they use ML and make possible solutions in azure marketplace
+Mining data and using resources to serve customers
+What things a full-time hire would do at Azure right out of college
+
+During your first two weeks, meet every single coworker. Get a better idea of what languages they like and what they prefer doing and what they actually do. 
+1. How much you devlivering?
+2. How much are you helping others?
+3. Are you leveraging others to help you? 
+Those are the three questions they ask when trying to decide if they want to give you further opportunities. 
+
+Get qualified and volunteer to go on call. That builds credibility when you're willing to wake up at 2AM and solve a code emergency
+
+Talked about being able to grow in the ways that are important to her
+(classes at UW, piano, skiing, etc)
+
+***********************
+Harpreet Kaur
+WHY BLEND IN WHEN YOU WERE BORN TO STAND OUT
+
+Talked about wanting to be a doctor when she was a kid
+Talked about feeling like she needs to fit in 
+Her son suggesting she wear a turban and falling in love with it since
 
 
 
