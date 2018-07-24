@@ -1,0 +1,15 @@
+2018 July 24th Tuesday 12-1:30PM
+Steven Drucker = host of data visualization lunches
+Speaker = UW PhD student
+Tool = "Draco"
+
+visualizations --> logic constraints
+our knowledge of design --> constraints
+1. domain of attributes
+2. integrity constraints
+3. preferences (most are soft, do not HAVE to be met)
+
+went through examples of how to use draco (what kind of inputs it can deal with)
+
+things to learn more about:
+-what is a strip plot? (just an un-binned histogram?)
