@@ -1,0 +1,54 @@
+PROFESSOR BRYAN MORSE: 
+2018/8/08 WEDNESDAY 9AM
+
+SHOULD I DO DATA VISUALIZATION?
+-there are schools that do data visualization (like the U)
+-but no, neither UVA nor BYU have anyone in that field
+-other organizations/companies include (SCI scientific computing institute Chris Johnson heads it (they also do medical vision and stuff), Purdue has Dave Ebert, UMD - baltimore had Pennie was director of WIT but she is moving to the university of Maine, Dave Lupki heads up NVIDIA research (does lots of graphics stuff), *EDWARD TUFTI = I should read his series of books* )
+-this field is very relevant as we have big data (esp w/ medical visualization, information vis)
+-people study stuff like: Influence of colors, sizes, layouts (like UI studies), Niche of human perception, etc, dealing with multi dimensional, high dimensions)
+-computer visualization split of from SIGGRAPH in late 80s early 90s
+-many vis people ended up in IEEE instead of ACM (in ACM "sig" = "technical committee" in IEEE speak)
+
+WHAT SHOULD I DO WITH MY LIFE??
+-he picked a company that does a lot of good things
+-and that let you flip around and look at different stuff
+-machine learning will fuel research in a lot of the different things that I am saying that I am interested in 
+-feel free to try different stuff and don't feel like you're stuck there. Even after master's at UVA I can switch, once I'm tenured I can switch, Dr. Olsen switched like every ten years)
+-take a look at Gavin Miller in SJ and the Creative Intelligence group (now does both Seattle and SJ) 
+
+WHAT KIND OF INTERNSHIP SHOULD I DO?
+-if it is research it is somewhere between ok and good (ie, what I did at Microsoft this past year)
+-Adobe is a great great great choice
+
+WHERE SHOULD I DO MY MASTERS?
+-people are BYU seem to be faster getting their masters degree here and doing PhD else where
+-it's nice because you hit the ground running on the research side
+-but for the PhD that would make course work possibly harder? because things might not count?
+-It's probably a 50/50 split and doing it with undergrad work or grad work would be good/ok
+
+USE ACM DL AND IEEE EXPLORE
+-try looking October's VIS proceedings and see who is doing what kind of stuff
+
+DO YOU KNOW ANY FACULTY AT UVA?
+-Luther Tychonievich (he got his master's at BYU)
+-Vincente Ordonez-Roman (same school as Dr. Morse)
+-Andrew Grimshaw (he's collaborated with other BYU professors)
+
+STUDENT VOLUNTEERS/SCHOLARSHIPS:
+-apply for them and get professors to pay for the rest
+-Vicente Ordonez-Roman (HE WILL INTRODUCE ME TO HIM)
+
+OTHER:
+Don't let myself feel like you can't switch. These choices you are making are not permanent. 
+
+QUESTIONS THAT I WALKED IN WITH:
+-should I do masters at UVA?
+-if my goal is to get a PhD in CS, then should I do an industry internship/industry research/academic research next summer?
+-pros/cons of returning to Microsoft v. researching at UVA v. research at a different school v. Adobe research
+-I know you collaborate with Adobe people, any thoughts about them as a company? (Would it look good on my resume? Would MSR look better? How much does that depend on who I work with at Adobe? Are their any researchers you would recommend I consider at Adobe? Do you think Adobe is a good place to work? Do their employees seem happy?) 
+-(I should probably just go email Dr. Price and Dr. Cohen these questions, I suppose)
+-if I don't know what I want kind of CS research I want to do, then is it okay if I keep trying different fields of CS? 
+-professors at UVA that do good computer vision/graphics research? 
+-I'm also getting interested in data visualization research (but no UVA professors do that, and I don't think anyone at BYU does it. Does that mean it's... a "less important" field/it would be harder to get a job? Or is it new? Or is it just really separate from your job and you don't know?)
+
