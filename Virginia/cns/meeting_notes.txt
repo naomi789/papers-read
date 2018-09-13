@@ -1,4 +1,16 @@
 2018 Sept 13 Thursday
+INSIDE MALWARE ANALYSIS
 -hex editors
 -IDA
--
+-virus total
+-looking at strings
+
+DETECTING WHO MADE MALWARE
+-finding someone's username inside
+-getting ideas of who, from what country this was made, why/purpose of it
+-seeing IP addresses
+
+YARA
+-an open source, pattern matching "swiss knife"
+-security departments will search across each computer in the network/as browsing web looking for patterns
+-for example, "MS" software that's spelled microsoft wrong
