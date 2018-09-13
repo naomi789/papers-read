@@ -1,0 +1,132 @@
+2018 July 10th Tuesday
+Microsoft Building 33
+
+Women's Panel, made up of: 
+Amy Hood (CFO), Cyra Richardson (GM of business dev IoT), Joy Chik (CVP Identity), Kathleen Hogan (EVP of HR), Laura Butler (TF/CVP of oneNote/ToDo)
+Each person talked about what happened this morning (kid worrying about driver's test, new puppy, world news, Serena's video about greatness, etc). Joy said she can put her two kids in the garage over night if they're bad because... they're dogs, so she won't go to jail. 
+Q: What does "dog fooding" mean, again?
+
+1. Who is a role model for you?
+Laura: her mom. They were homeless for a while, but her mom always tried and hungered after knowledge. Best gift was a library card. 
+Joy: her grandparents
+
+2. When and why did you join Microsoft? 
+Discussion of imposter syndrome
+
+3. Advice? 
+IT GETS BETTER WHEN YOU GET OLDER
+Stop worrying about how you "seem" (how I look, if I sound smart, etc)
+Worry about DOING good. Put that effor elsewhere. Get out of your own head worrying about yourself. Power comes from doing. 
+
+Yes, writing code and delivering matters, but... Having a social network is also really important. 
+
+Ask questions and take risks. 
+
+You have a long career ahead of you. If the project is hard, or you had a bad day... You're LEARNING STUFF! The hard times are what you will learn things from!
+
+Take off the pressure. Stop worrying about pleasing people. 
+
+Build strong healthy happy human relationships
+
+*Opened questions to the interns
+
+4. Fulfillment. How do you find fullfilment and life happiness AND success? 
+Talked about having cancer and planning "if I survive". Talked about their children and considering being a full-time mom
+the yardstick is your own: you decide if you're doing a good job and evaluate based on yourself (not someone else's expectation)
+
+5. What should you do when someone says your experience/background is not relative?
+You know that someone is an expert if they can explain complex things very simply
+
+6. How to avoid burnout/build up mental stamina?
+Don't take everything too seriously
+You're not in a 100m sprint, this is a lifelong marathon
+
+7. Life as a minority & high on the corporate ladder: what struggles have you faced and how did you deal with it?
+Idk how I would've experienced life if I had been male?
+Talked about Black Lives Matter and how gen x/millenials are changing the story of the world
+We can also change how tech has a reputation of being male
+This year 45% of interns at Microsoft are female
+Don't feel like you're the only person struggling with imposter syndrome, etc. Lots of men have that problem too. 
+When you're the only women you feel like you represent all women--- in reality there should be different flavors; there are different ways of being a female leader, and that's how it should be
+N: I need to get that into the paper
+
+8. How do you have hobbies/make time for life outside of work
+This is super important. Fullfilling yourself and replenishing energy
+She has kids, pets, bakes, and visits college friends every year. Plays tennis (porly)
+Do it however you would like to do it
+Watch out for stuff that takes energy (the grind, negative situations, etc)
+You cannot just be a giver, you also need to fill yourself up and recieve energy from others
+Work will take up ALL THE ENERGY YOU CAN GIVE IT
+Decide where to draw the line. Hopefully your manager can help you with that
+Company X does't take care of older employees. Make sure you have time for other things in your life. 
+
+9. Not all employees make it to the C suite. What did you do or what happened to get you there?
+I am gritty. Never take no. Is creative. Thinks outside the box. 
+Accepts blame when it is her fault. 
+It is easy to be curious here and ask questions and learn more. This helps prevent burnout. It is easier to learn things here. 
+The friends you make this summer? Your paths will cross next year, or in 5 or 10 or 20 years. 
+Your future is probably longer than one company so make friends
+Too poor, too artistic/too nerdy, too short, too loud... has always been a misfit. This made her phenominal in tech bc she is all about innovation and change. You don't have to think outside the box if you were never inside a box
+N: Understand who you are and what you are good at: build upon it and make it your superpower. Don't try and pretend to be someone else. 
+They were taught "to norm". We're being taught to be ourselves. 
+
+***************************
+
+10AM Ana-Maria Constantin, "Feeling 22 (@Microsoft)"
+Graduated from Harvard in 2016 and immediately started in Microsoft
+
+Said two years ago there were fewer girls
+Talked about interning at both MS and GS as an undergrad, HS in Romania before coming to the states
+
+Talked about wecode 
+Q: what is that?
+Talked about being a google/anita borg scholar
+
+Suggested: make a list of what things matter the most. What gives you a sense of purpose? What makes you feel accomplished when you get it done?
+Ended up a list of nine important things, with three super-priorities
+Said she tends to overthink as she considers options
+N: she showed clip art "it was never a dress" of the clip art woman on most bathroom doors
+
+Talked about Microsoft Azure:
+Hyperscale. Enterprise Ready. Hybrid. 
+(Amazon/AWS only has two, Google only has two. We have all three)
+
+Talked about day-to-day aspect of job and what she usually works on
+34 Azure regions (twice as many as there are AWS)
+
+She's talking about how they use ML and make possible solutions in azure marketplace
+Mining data and using resources to serve customers
+What things a full-time hire would do at Azure right out of college
+
+During your first two weeks, meet every single coworker. Get a better idea of what languages they like and what they prefer doing and what they actually do. 
+1. How much you devlivering?
+2. How much are you helping others?
+3. Are you leveraging others to help you? 
+Those are the three questions they ask when trying to decide if they want to give you further opportunities. 
+
+Get qualified and volunteer to go on call. That builds credibility when you're willing to wake up at 2AM and solve a code emergency
+
+Talked about being able to grow in the ways that are important to her
+(classes at UW, piano, skiing, etc)
+
+***********************
+Harpreet Kaur
+WHY BLEND IN WHEN YOU WERE BORN TO STAND OUT
+
+Talked about wanting to be a doctor when she was a kid
+Talked about feeling like she needs to fit in 
+Her son suggesting she wear a turban and falling in love with it since
+
+***********************
+
+Open question time. Talked about reading research papers and meeting the people who wrote the papers. 
+Spending last 30 minutes of every day to read papers/learn more/take a class
+
+70% we learn on job 30% you learn outside of the workplace (courses, etc)
+
+Past few jobs she didn't look for: just headhunters/connections/etc
+
+Harpreet give us her alias so we can contact her
+
+
+

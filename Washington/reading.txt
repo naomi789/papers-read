@@ -1,0 +1,6 @@
+Title, author (year), page count
+
+2018 June
+-"The Clean Coder"
+-"Creativity, Inc"
+-"Broad Band" Claire L. Evans (2018), 245 pages

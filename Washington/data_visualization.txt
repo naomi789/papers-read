@@ -1,0 +1,57 @@
+2018 July 24th Tuesday 12-1:30PM
+Steven Drucker = host of data visualization lunches
+Speaker = UW PhD student Dominik Moritz with IDL group in Paul G Allen school of CCS
+
+Tool = "Draco"
+
+visualizations --> logic constraints
+our knowledge of design --> constraints
+1. domain of attributes
+2. integrity constraints
+3. preferences (most are soft, do not HAVE to be met)
+
+went through examples of how to use draco (what kind of inputs it can deal with)
+
+why this is good: 
+-value-added automation
+-uncertainty around user goals
+-other stuff... cited Eric Horowitz paper 
+
+much much less code than compassQL 
+
+but how do we do this learning? 
+how do we decide what the cost is of violating different constraints
+did learning on data from two different papers
+
+Read more about Draco in InfoVis 2018 paper: "Formalizing Visualization..."
+Plus a workshop paper for InfoVis "Beyond Heuristics: Learning Visualization Design"
+
+Currently it is Python based, but they're writing a JS version
+
+What are the effectiveness/expressiveness rules??
+
+Workshop at Vis about design guidelines
+
+
+Future: 
+What if we used this with NLP/NL interfaces
+What if we integrated Draco into existing tools like Excel, etc
+"linting" misleading designs
+uwdata.github.io/...?
+see more, here at: github.com/uwdata/draco
+terrifying idea: what if you made rules that were designed to mislead
+
+Questions: 
+How could we extend this? Why not have it show more than one option? Talked about getting it to show the next worst and the next-next worse ones. 
+The only thing that Draco can't do is: 1. clustering and 2. it's not always as efficient
+
+
+
+
+
+
+things to learn more about:
+-what is a strip plot? (just an un-binned histogram?)
+-what is a constraint solver? (they used one off the shelf what was in C)
+-Hammar and Susco (who talked about if visualizations are task or values)
+-Yung-Hoon's paper 
