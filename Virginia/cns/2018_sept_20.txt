@@ -48,7 +48,9 @@ UDP packets:
 OTHER TOOLS & COMMANDS:
 -nmap
 -ifconfig/ipconfig
--whois
+-whois (shows names and address of person who owns site)
 -nslookup
 -netminer
 -tedump
+
+-talked about <marquee>s
