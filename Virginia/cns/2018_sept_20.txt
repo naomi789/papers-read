@@ -1,0 +1,54 @@
+ROMAN SPEAKING TODAY: 
+...
+...
+
+Addressing
+-IP (Internet Protocol) address identifies the computer on the network
+--> IPv4 (current standard; ARIN already ran out)
+--> MAC an address burned into the NIC
+
+-NAT helps to connect to networks 
+--> all computers have private and public IP
+
+HARDWARE:
+-transmision (ethernet,...)
+-
+-
+-
+-
+
+PACKETS 
+-units of data
+-generally small
+-...
+
+PROTOCOLS:
+-rules (govern interactions between machines)
+-handshake/transmisison process
+-port = specific communication channel
+-ranges from 0 to 2^(16)-1
+-TCP
+--> Very reliable bc you check to see if you got it
+--> SYN -> SYN/ACK -> ACK handshake
+UDP
+--> User Data Protocol (doesn't resend/know if you got it, but is faster)
+(often used for real time data/videos/gaming. It's ok if you miss a few frames as long as it's fast)
+TCP and UDP don't clonflict
+
+OTHER PROTOCOLS INCLUDE:
+ARP, HTTP, HTTPS, FTP, SSH, SMTP, POP3, IMAP, ICMP, DNS, DHCP
+
+TCP Packets: 
+-32 bits
+-lots of data
+
+UDP packets:
+-much less data
+
+OTHER TOOLS & COMMANDS:
+-nmap
+-ifconfig/ipconfig
+-whois
+-nslookup
+-netminer
+-tedump
