@@ -1,0 +1,67 @@
+2018 October 4th
+PWS talk on cybersecurity
+
+From a Business Perspective:
+-CRO
+-CEO
+-CIO/CISO
+-Sales/Marketing
+-CPO
+-Boardroom
+
+Trends in 2018:
+-supply chain attacks
+-asset management (known vulnerabilities are not fixed/patched)
+-data security (health care, airlines, prereq data for govt secuirty clearances, etc)
+-IoT 
+-email attack vector (phising, etc. Most common vector of attack, esp to corporate accounts)
+-employee attack surface 
+
+Discussion of how stuff has been changing:
+-medical offices get your id, insurance, and credit card before you even see the doctors
+-doctors are still terrible at transferring data safely
+-universities that used to have social security numbers on students' id cards
+
+Who attacks?
+-state sponsored
+-financially motivated
+-malicious insiders
+-ideologically motivated
+(general sophistication high-> low (top -> bottom))
+
+Anatomy of an attack:
+-recon
+-initial compromise
+-establish foohold
+-escalate privlidges (start cycle here)
+-internal recon
+-move laterally
+-expand presence (go back to start of cycle)
+-exfiltrate data/complete mission
+
+More on healthcare:
+-loss of life on line: changing insulin dosage, keeping out data about surgeries
+-holding data on ransom (should we pay or not...?)
+
+Other attacks:
+-doxing people (didn't realize that was considered cybersecurity threat)
+-crypocurrency mining malware (Cryptojacking) (using computing power of a device to hack other machines)
+-dumb links in emails (missing packages, free baseball tickets, other stuff people really want to click on)
+
+Tips to defend against attacks (not IF but WHEN)
+-awareness and training
+-focus on key data/"crown jewels"
+-focus on information supply chain
+-information sharing
+-external threat intelligence
+-detection = more improtant than prevention
+-have a plan
+
+What kinds of skills should we develop to get jobs in this field?
+-(listed various things)
+
+How to learn things?
+-read papers, go ot conferences, etc
+-read security blogs
+-imposter syndrome
+
