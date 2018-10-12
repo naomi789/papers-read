@@ -1,0 +1,95 @@
+MICHELLE FROM UMD:
+-users are not stupid; the HCI needs to be improved to promote security
+
+THINGS TO REMEMBER:
+-you are not your user
+-security is a secondary concern
+-more is not always better
+
+Understanding practitioners
+-stack overflow v. security
+-measuring crypto libraries
+-threat modeling in NYC
+-needing ``working practitioners''
+
+Writing code:
+-find exception
+-google for ideas
+-stackoverflow suggests "approving all certificates" instead of checking
+-YAY! You no longer need to validate this. 
+-BOO. You just "copy and pasted from the internet (bad for security)"
+-can we measure this? How often do people do this? Ametures? Pros? 
+
+Survey of 295 Google Play Devs:
+-most people were using stack overflow/search engines
+
+Lab study:
+-only permitted to stackoverflow, textbook, official documentation, OR all of the above
+-NOT primed security or privacy (just told "write code to do x")
+
+Task 1: convert HTTP to HTTPS 
+Task 2: limit access between different apps (from same developer)
+Task 3: storing userID and password on an app
+Task 4: releasing permissions for app to make phone call
+
+Evaluation: 
+-does it work (compile, meet goals)
+-security (if it works, is it secure?)
+-self reported thoughts (did they think resources were correct/useful)
+
+Users:
+-54 people (US/Germany, students and professionals, all passed android coding quiz)
+
+Results:
+-official documentation was least helpful in a functional solution
+-but official documentation greatly increased the chances of a SECURE solution
+-16% of people mentioned thinking about security (and 5% of people said "well, if I was doing this for real, [be secure]"
+-professionals didn't seem to be much more secure than students
+-visited 149 stackoverflow sites (41 were relevant)
+
+Takeaways:
+-stackoverflow is quick and functional but LESS SECURE
+-official documents aren't designed for troubleshooting
+
+Question:
+-are simplified ones easier? 
+
+Next survey: 
+-invite 50k people
+-had 256 professional software developers who aren't security pros COMPLETE the survey
+-discussion of the results
+-how much people liked various encryption libraries
+-which features/lack of features/right or wrong levels of abstraction
+-about 20% of people who said "yes this is secure" were NOT secure
+
+
+Third study: 
+-threat modeling with NYC cyber command
+-training sessions (center of gravity)
+
+Metrics: 
+-technology acceptance model
+-perceived efficacy (was this process useful)
+-accuracy (did senior people belive these more correct/useful)
+-actual adoption (were people using them)
+-if high successful and people used them, was it actually useful? 
+
+RESULTS:
+-found new issues
+-more confident
+-more prepared to explain the benefit of this to their boss
+-numbers on accuracy, mitigation strategies, etc
+-ran a 48 hour bug bounty program (in public facing web services)
+-less than 2 hours training per person
+-measurable 120 day security improvement
+
+CONCERNS:
+-did people just say "it was good" because they don't want to hurt our feelings?
+-was it effective just because it was SOMETHING about security? Would yelling "SECURITY SECURITY" be just as effective?
+
+IN THE WORKPLACE: 
+-software testers and white hat hackers have overlapping jobs
+
+
+
+
