@@ -1,3 +1,45 @@
 2018 Oct 12 Friday
 LAB MEETING
 
+A scanner DARKLY: Protecting User Privacy From Perceptual Applications
+(Jana et al = Suman, was a postdoc at Stanford)
+(will go over his work before talking about a paper)
+Speaker's name is...? "Jack"? 
+
+Public video. How to use without it becoming surveilance? 
+Citizen privacy v. community security
+Police departments.... 
+
+DARKLY is a system for when you trust hardware and sensors, but not application that is processing data
+DARKLY:
+1. opaque references
+2. declassified functions
+3. console
+
+Focused on image processing
+Idea that most don't need the actual image, DARKLY does some pre-processing
+-blocks perceptual inputs
+-integrated with OpenCV
+
+Discussion of when and how much data they give to the user (through DARKLY)
+-a privacy slider, the ability to decide how much to show
+
+List of programs they evaluated it on. 
+List of impacts on performance. 
+Graphs of impact on performance (depending on privacy dial settings)
+
+NOW GRAD STUDENT'S WORK:
+-threat model (make it expensive to repeatedly query and using a face to try and decrypt)
+-assumes that adversary has full access to face/video databases
+-pricipal challenge is having acceptable error large enough that you can take a new photo of the same face and use it as the key
+
+OTHER ASSUMPTIONS:
+-this program would be running on a camera
+-what kind of latency would be acceptable? If recording 4K? 
+-high framerate would make that very expensive
+-discussion of how existing camera only record if there is motion, or cameras that detect faces
+-what "biometric features" will be used?? (will you need to encrypt just face or whole body?)
+
+MEETING ENDS
+-new president is being inagurated next week; there will be a research talk there
+
