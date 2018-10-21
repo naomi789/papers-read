@@ -1,0 +1,74 @@
+2018 October 20
+12:30PM ~ 
+Keynote NSA Marianne Bailey
+(Deputy National Manager)
+Office of the National Manager for National Security Systems
+
+Coming here:
+-NSA = big fan of security/educational competitions
+-thanks to who came/set up/ran program
+
+Why this matters:
+-cyber is threatening our way of life
+-threat is pervasive (to ALL SECTORS: energy, finance, democracy, health, etc)
+-->nice because we have job security, but... bad. 
+-how tech can help us (and how those benefits can be in danger)
+
+Cyber seccurity is evolving/interconnected
+-image of a bad guy/girl in a black hoodie, at a keyboard
+-but it's more than that: they have automation, alerts, etc
+
+Dangers: China, Russia, DPRK (Korea), Iran
+(called "peer adversary" (used to be "near peer" but they're more advanced now)
+
+OPM (Office of personal management)'s breach ~2 years ago
+(EVERYTHING: cars, credit history, fingerprints, etc were in those files)
+First set of letters to victims cost $500,000 FOR STAMPS ONLY
+$1 billion for the breach
+
+CYBER IN THE WORKPLACE:
+-having to turn off automated machines when you get a red alert
+(if it's a false alarm, will your boss let you stop everything next year?)
+-but what if a machine turns left when you thought it'd go right (and kills someone)
+-workplaces that forbid wireless machines (when you bring a crockpot to a potluck party and it's sending out signals... then what??)
+
+You will NEVER want for a job. 
+
+How/when/why should offense e separate from defense
+
+What must be done:
+-patch management
+-least priviledge administtration
+-multi-factor authentication
+-knowing your network (too many people VPNing in, vendors, contractors, etc)
+-daily backups
+-white listing
+-enable logging/doing analysis
+-harden (??)
+-data encryption
+94% OF 2017 INCIDENTS WERE PREVENTABLE WITH BEST PRACTICES
+
+National/DoD Cyber Strategies
+in summary:
+-protect our ideas (it's our future)
+-defense crosses borders (WannaCry)
+
+NSA CYBER SECURITY:
+-best known for keys, codes, cryptography
+--> our devices are used for a LONG TIME. Like a satellite: will this be secure in 40 years?)
+-when will quantum computers be available? (much better for cracking codes)
+
+FUTURE OF CYBER:
+-cyber automation
+-threat intelligence
+-tech innovation
+
+EXPERT SKILLS THROUGH WORKPLACE
+-education
+-recruitment
+-development
+(and then repeat the cycle)
+
+NSA:
+-probably the highest percentage of people with PhDs in cybersecurity (out of all companies)
+
