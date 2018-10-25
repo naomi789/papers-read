@@ -1,0 +1,18 @@
+2018 10 25th
+-Playbook from CCDC
+-what to do when your network is under attack/is compromised but still need to meet business needs
+
+Attack Surface:
+...
+
+First Steps:
+-secure user accounts
+-secure core windows os
+a. set up a firewall (default windows7+ isn't bad)
+b. manage AD functionality (active directory)
+c. apply updates and security patches (windows is trying to help you!! but at CCDC people will delete your updates)
+d. hunt malware 
+-asses web services and secure service accounts
+
+Next:
+Let's install VMs and mess around for a bit
