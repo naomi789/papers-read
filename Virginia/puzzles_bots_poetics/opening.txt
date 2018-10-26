@@ -1,0 +1,107 @@
+x2018 October 26th
+http://iath.virginia.edu/news/news_2018_10_23_s173.html
+9AM Coffee/Bagels
+9:30AM Opening Remarks
+
+Introduction for: 
+Join Kate Compton in the Scholars’ Lab for a creative coding workshop on generative programs! Learn how to use Tracery – a super-simple tool and language for generating text, used for making twitterbots, artbots, games, and stories – and how Tracery fits into the world of generativity as a whole. We’ll also be learning about Generominos, generative ideation cards that help you design your interactive artwork, alt-control game, or generative art experiment. Bring your laptop! Everyone is welcome, no coding experience necessary!
+Kate Compton is a generative artist, programmer, inventor, and researcher at the University of California, Santa Cruz, who is developing artificial intelligence to augment human creativity. She wrote the popular generative-text language Tracery and the bot-making language Bottery. See her work at galaxykate.com
+The Scholars' Lab is sponsoring this workshop as part of the Puzzles, Bots, and Poetics Symposium, being held Friday Oct. 26 – Saturday Oct. 27, 2018, hosted by the Puzzle Poetry Group with support from the Page-Barbour Committee and IHGC.
+
+Kate Compton's talk: 
+-context free bots (that don't need context)
+-discussion of turing tests for bots that make poetry 
+(thinks this is bad idea; besides poets would loose their jobs --- if there are any poets that have jobs)
+-went through some examples of bots
+-talked about how twitter is considering banning bots (difference between bots and people posting disengenuously)
+
+Twitter examples:
+[many of these are built on CHEAP BOTS DONE QUICK]
+@infinite_scream # just what it sounds like. People scream back and forth with it. 
+@horrible_hogwarts # fan thing, makes about five things on request/patronage
+@meka_activated # made by Nora Reed who is one of the biggest users of Compton's tool
+@everyonesai # makes mini comic books (fan for "everyone's a robot when you're a robot too) 
+@tinycarebot # horecrux discussion
+@losttesla # the idea of a "summon" button on a Tesla -> this bot tells you it's experience on a "cross country trip" (can't respond/hear you: IT'S LOST)
+Hero and Leander (calling out on different hashtags and not finding each other)
+
+Poetics: 
+-she doesn't feel like she knows much about Aristole/poetics, but he says:
+1. mimetic
+2. serious
+3. tells a full story
+4. performed (not narrated)
+5. rythm/harmony 
+6. etc
+-needed goals
+-needed tools to get there
+-etc
+
+Compton feels like we need to have a similar plan for bots
+
+Other commentary: 
+-sometimes there is more truth in fiction
+-there are things that bots can say that we can't
+
+What is a bot?
+-digital assistants
+-twitter bots (Olivia Taters, TayTweets, Eliza)
+-tangent about the 'rogarian therapist' of Eliza from the 1960s, born in MIT basement
+-bots include robots
+-some robots draw/make art
+-player piano, roomba, lawn sprinkler bots, etc
+
+okay, back to the question:
+-autonomous
+-generative
+-interactive/reactive
+-personified
+
+WHAT HAPPENS WHEN YOU GIVE AN ALGORITHM EYES?
+-personification
+-it looks back at you
+-it has feelings
+-social standing
+-it feels us looking at it
+
+Talked about CS games conference
+-discussion of flagella and a game that lets you play soccer with it
+-how offended conference attendees were that the flagella die
+-even through scratching your arm kills flagella
+
+Discussion of forms of autonomy:
+-windchimes v. cuckoo clocks 
+-trusting very limited bots bc you know they won't do anything else
+-intentionally signalling low status (makes people like bots more)
+-discussion of Data from Star Trek and how we like him more when he's asking questions "does this beard make me..." or making jokes that don't land
+@godtributes (will use a template and your tweet and then combine them)
+-there are some "not okay" bots (discussion of the ethics. See Amy [??])
+{there are things that people can do but bots CANNOT}
+{and remember to take responsibility: what your bot says you have said}
+-some bots are like tarot cards
+
+Autonomy as a poetic tool:
+-can bots say no? (can an actor say: 'no I dont want to perform hamlet today' is it okay for an actor to say 'once Im on the stage I will read my own poetry instead')
+-what is bot consent?
+
+Content generation
+-interdementional time traveling space beings in a bar
+-resturant management (generating menu based on things)
+-generate spoofs (be cautious - it's hard to do people. Can do buzzfeed headlines)
+-generating a character (the lost tesla)
+-expressings things
+-bots as therapy (prayer flag and prayer wheels)
+
+Bots as:
+-WALL-E (what bot would you want on earth as the very last bot on earth)
+-improv partner (a bot that will give you writing prompts/art assignments/music graphic scores/instrument suggestions)
+-generating ways to ceremonial greet your partner
+-generating bots to generate code
+-generate rhythm and repetion and negative spaces/pause
+-parapraxis and juxtaposition
+-bots that write the first line of a story ("an angry nun in a wedding dress" or "a weeping priest and a surfer..."
+-connected to hemingway "for sale baby shoes never worn" (what if you switch out 'baby' or 'never'
+-adding contrast to story "pregnant football player carrying a briefcase"
+-remember you don't want EVERYTHING to be as loud as possible
+
+
