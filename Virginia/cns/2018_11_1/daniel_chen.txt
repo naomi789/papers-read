@@ -1,0 +1,19 @@
+2018 Nov 1st
+Daniel Chen
+
+Fuzzing is often automated now, but we'll be doing it manually today (to verify the program's correctness)
+
+PURPOSES:
+See how well program resists crashes
+See if there is unintentional behavior
+Check for exploitable behavior
+To make sure there are no security flaws
+
+tried to CTF questions:
+nc 2018shell2.picoctf.com 43581
+{haven't got the flag yet}
+
+
+nc 2018shell2.picoctf.com 57659
+picoCTF{aLw4y5_Ch3cK_tHe_bUfF3r_s1z3_2b5cbbaa}
+
