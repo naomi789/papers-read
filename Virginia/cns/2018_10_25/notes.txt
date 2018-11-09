@@ -1,0 +1,29 @@
+2018 10 25th
+-Playbook from CCDC
+-what to do when your network is under attack/is compromised but still need to meet business needs
+
+Attack Surface:
+...
+
+First Steps:
+-secure user accounts
+-secure core windows os
+a. set up a firewall (default windows7+ isn't bad)
+b. manage AD functionality (active directory)
+c. apply updates and security patches (windows is trying to help you!! but at CCDC people will delete your updates)
+d. hunt malware 
+-asses web services and secure service accounts
+
+Next:
+Let's install VMs and mess around for a bit
+
+Google link with playbook (I'll download it and include it as a .pdf)
+Discussed some pieces of the playbook:
+-foldershares, netshares (dangers of exposed data)
+-incident reports (mitigating damages, find evidence it was malware, improve network, documenting your response)
+-NetBIOS over TCP/IP
+-scheduled tasks (things that need to happen automatically on windows. Use 'at' or 'schtasks')
+-deleting cashed credentials (makes things SLOWER but MORE SECURE)
+-sysinternals ('benign things' taking up a really long time bc malicious things are masquerading)
+-virus total 
+-process explorer (seeing a tree of what is running and where)
