@@ -2,4 +2,41 @@
 Cybersecurity/IoT/Computer networks/cybersecurity education
 Research and also the CyberHoos group...
 
+Questions:
+-how can I get a better overview understanding of cyber?
+(I tend to feel like I pick things because of "cool applications" not because the tech behind it is cool)
+(probably because I don't know enough)
+-how should I pick a undergraduate thesis/DMP topic
+-any other PhD prep advice??
+
+CYBERHOOS:
+-people who work over the summmer
+-people who are considering master's degrees
+-people who want to learn about malware
+-penetration testing next semester
+-it's a way of getting committment
+
+
+CYBERSECURITY:
+-ill defined term
+-is talked about in Commerse school, Education school, etc (IN VERY DIFFERENT WAYS THAN WE DO)
+-how can we keep tech from hurting people
+-malware/viruses/how malicious software can act on computing devices
+-how devices are designed so that there are vulnerabilities
+-how websites can have vulnerabilities (forgery/SQLinjection, etc)
+-how devices can communicate and things can be intercepted (network security)
+-IoT (this is BIGGEST has software that connects to the internet)
+-wireless attacks (a big thing that he is doing)
+-studying what will happen in 20-50 years (equations and proofs about what WILL work if someone builds it)
+-the science of how to break into things
+-the active side (AOT passive) of exploitation
+
+IBRAHIM:
+-wants to follow multiple branches of cybersecurity and then combine those multiple things
+-so this will be much more practical and hands on
+-in PhD did protocols (there are no proofs)
+
+
+MAMUNI (sp):
+-does theory (proofs, equations, etc. Not practical)
 
