@@ -34,7 +34,13 @@ CYBERSECURITY:
 IBRAHIM:
 -wants to follow multiple branches of cybersecurity and then combine those multiple things
 -so this will be much more practical and hands on
--in PhD did protocols (there are no proofs)
+-in PhD did protocols (there are no proofs) (later found out you can do it with fewer messages)
+-is interested in car hacking
+-golden v. silver ticket attacks (on active directories) NEEDS SOMEONE HERE TO WORK ON IT
+
+IS NOT interested in:
+-theory
+-things you cannot touch/see
 
 
 MAMUNI (sp):
