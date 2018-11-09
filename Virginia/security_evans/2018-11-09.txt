@@ -1,0 +1,28 @@
+Bargav talked about "Distributed Learning without Distress: Privacy Preserving Empirical Risk Minimizatio"
+(recently accepted at NIPS 2018)
+
+Differential private solutions for single party settings
+Multi-party settings (output perturbation 2)
+Improve output perturbation (by generating noice INSIDE the MPC after we aggregate them)
+Talked about how without aggregating data there wouldn't be enough data
+
+*What does it mean to say you have a privacy budget of .5??
+
+Talked about trying this accross multiple datasets
+
+EMPIRICAL EVALUATION OF DIFFERENTIAL PRIVACY FOR ML
+
+Objectives: evaluating the effect of privacy budget 
+(model utility) v. (attach success) 
+Using those two to determine epsilon
+
+definition of "differential privacy" is trying to hide the data (?? I think I missed part of that)
+
+discussion of how to measure attack success, attack models, etc
+
+DP Relaxation for Better Utility
+
+pure DP notion -> relaxed DP notions
+(discussion of worst case v. expected privacy lost)
+
+
