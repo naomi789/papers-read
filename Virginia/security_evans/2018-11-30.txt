@@ -35,3 +35,11 @@ talked about cost of each, pros and cons, when to do which
 
 encoding properties:
 gaol = untargeted attack is infeasible
+
+MILP solvers:
+-NP complete
+-free and open source (NU GLPK)
+-commercial (gurobi, etc)
+
+Talked about some code written in Julia (apparently he also likes Rust)
+
