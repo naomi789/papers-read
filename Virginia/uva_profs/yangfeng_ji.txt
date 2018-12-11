@@ -1,2 +1,40 @@
 2018 December 10th
 NLP professor
+
+(background: I met with Hanjie Chen,  his PhD student)
+
+HIS RESEARCH:
+-trying to get an NLP model to predict and explain why it is predicting that
+-is a user review positive or negative
+-you can get high accuracy with deep learning
+-but don't know why its predicting things
+-you want user to be able to know if prediction is justifiable or not
+(ie, is it predicting because it saw positive words or...)
+
+CASE 2:
+-ML model starting from imperfect/incomplete supervision
+-previously, you needed perfect annotation (needed human experts and RELIABLE annotation)
+-limitation of that is: difficult and expensive to gather needed data (doctors annotating medical records, etc)
+-INSTEAD of annoatation, just ask doctors for a high-level, incomplete annotation
+-have to deal with noisy annotation, possibly incorrect annotation, etc. Need strong ML model. 
+
+HIS ADVICE:
+-talk to some of his graduate students
+-look for a way to collaborate
+-if you find a topic you like, help you get start
+
+THE PLAN:
+-he'll introduce me to some of his students
+-he'll try to help me find a well defined 
+
+
+
+QUESTIONS:
+-could I take CS6501
+(grad level: ask students to present. would need strong background in deep learning)
+probably not...
+-but you could take the undergrad class (ML will be the prereq and AI would be helpful)
+
+lab is Rice 218
+
+I will email him and ask about meeting people
