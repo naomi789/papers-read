@@ -1,0 +1,45 @@
+2018 November 30th Friday lab meeting
+FORMAL VERIFICATION OF FEATURE SQUEEZING (WEILIN XU)
+PROBLEM:
+-is effective against many oblivious attacks and one obvious attack
+
+FORMAL VERIFCATIONS
+-in general: they try to answer a question ("Have we made what we are trying to make"?)
+-in our case: "can we detect all adversarial examples"
+-or: "what kinds of adversarial examples can feature squeezing detect?"
+
+BASIC IDEA:
+-exhaustively test ALL inputs (in efficently and w/ formal methods)
+-if could do, just brute force it! If can't... what is feasible?
+-linear programming is related (use formal methods to reduce search space)
+--> is not enough for neural network, so:
+
+MIXED INTEGER LINEAR PROGRAMMING (MILP)
+-continuous variables
+-integer vars (binary)
+-linear constraints
+-linear objective
+
+to use this, must encode neural network as MILP
+-linear (convolutional, fully-corrected, batch normalization)
+-non-linear (pooling layer, activation)
+
+talked through example of piecewise linear function on the whiteboard
+
+talked about tightening algorithms
+-interval arithmatic (many linear components makes it easier)
+-linear programing (use linear programing solver to calculate things to help optimize)
+-mixed integer programming
+
+talked about cost of each, pros and cons, when to do which
+
+encoding properties:
+gaol = untargeted attack is infeasible
+
+MILP solvers:
+-NP complete
+-free and open source (NU GLPK)
+-commercial (gurobi, etc)
+
+Talked about some code written in Julia (apparently he also likes Rust)
+
