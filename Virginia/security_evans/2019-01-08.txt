@@ -1,0 +1,105 @@
+Serge Egelman
+egelman@cs.berkeley.edu
+-now at: UC Berkeley/ICSI
+-undergrad at UVA (ran own ISP, grilled at social events, prof wondered if he'd end up in jail)
+-did PhD at CMU
+
+EMPOWERING USERS TO MAKE PRIVACY DECISIONS IN MOBILE ENVIRONMENTS
+-android permissions
+-survey (multiple choice questions interpretting the data)
+--people general ignored them
+--people didn't know this had to do with privacy
+--there were too many permissions couldn't require (120+ unique ones)
+-NOW, there are "ask on first use"
+--but is this best??
+
+-"ask on first use" ignores context
+-decided to check how often resources are accessed IN PRACTICE
+-modified android kernel
+-to gather when various apps accessed sensitive data
+-CONTEXTUAL DATA:
+-timestamp
+-visibility
+-screen status
+-connectivity
+-location
+-view
+-history
+
+-took phone home for one week
+-36 smart phones (some people didn't bring the phones back lol)
+-6048 hours of real-world use
+-27 million permission requests
+
+RESULTS:
+75.1% WERE INVISIBLE PERMISSIONS
+GPS location data was visible, while asking for location, ONLY 0.04% OF THE TIME
+-location is often cashed, if accessing that you don't need to give permission
+
+SO WHAT?
+-we can't ask people for their permission 200+ times an hour
+-on average, people wanted to block 35% of these requests
+
+USER CENTERED DESIGN
+-ask when the user isn't expecting something to happen
+-ie, when you use Google Maps, don't need to give permission because you're expecting it
+-real question: is the user likely to object
+-reservoir sampling (???)
+
+
+NEXT STUDY:
+-asking people "[app] just requested permission to [qwerty]. Would you've allowed that?"
+-training system to classify what people care about
+-most important feature: were they using the app when the app wanted data
+
+
+THIRD STUDY:
+-"[app] wants to [thing]. Allow?"
+-bootstrapped (used 130 data points from previous people, then got 12 new data points about one person, and re-decided"
+
+SUMMARY: they were measuing user PERCEPTION
+-but what about actual safety??
+
+So why don't developers also send a string of text that explains why the data is needed?
+-it's not standardized, and few people use it
+-NO MATTER HOW NONSENSICAL, people are more likely to accept if there is an explanation
+-discussion of a "xerox experiment" 
+--"do you mind if i cut in front of you?" (basic)
+--"do you mind if I cut in front of you because I'm in a rush?" (reason)
+--"do you mind if I cut in front of you because I need to make a copy" (placebo-reason)
+--placebo-reasons was just more effective than the basic one
+-discussion of Weather App saying 'our app requests your location to give you better weather"
+--they don't say "oh and we also sell it to third parties" 
+--> now they're getting sued
+
+-unlike other countries, US does't regulate data (except for minors under 13)
+-I'm a little confused about what, exactly, a SDK is
+
+-discussion of how Google isn't enforcing Google to follow the rules that Google made
+-discussion of "SAFE HARBOR" 
+
+REACTION FROM INDUSTRY:
+-we're not an app for kids
+-we didn't endorse those apps for kids
+-those aren't apps for kids
+-etc
+
+INTERESTING QUERIES:
+-apps that don't have location privlidges
+-apps that access privlidge
+^^those should be non-interescting (but wasn't, and recently got a Google bug bounty)
+
+-46esab (base64, but reversed) encoding
+
+-study about GDPR compliance (pre, and post GDPR (longitudinal study))
+
+-popular assumption: paid apps grant greater privacy
+(anecdotally, THIS APPEARS COMPLETELY UNTRUE: they don't show you adds but collect the same data)
+
+QUESTIONS:
+-Q: what should we mandate? A: we should enforce the current laws. For the most part, SDKs are issues: they could cut off apps that are non-compliant
+-Q: what can we do? A: FTCs aren't doing much, but states are doing better. 
+-Q: what can a consumer do? A: nothing
+-Q: what happens if you are 'do not track'? A: they send a bit saying 'do not track' (and all the other data that they shouldn't be tracking <- illegal)
+-Q: this was all about android. What about iOS? A: Tim Cook threatened to take Uber off bc ignoring laws. 
+
