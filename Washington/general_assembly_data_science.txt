@@ -1,0 +1,31 @@
+2019 January 21st 
+GENERAL ASSEMBLY 
+DATA SCIENCE 101
+FRANK TURNER
+
+-data = facts and statistics that were gathered
+-science = doing something with it
+
+-data science (interdisciplinary way of studying)
+-you need:
+-programming skills
+-math/statistics knowledge
+-business acumen/domain expertise
+-communication skills
+
+-data engineer:
+-takes data and structures it in such a way that it can be analyzed easily
+
+-what data science does:
+-"beautiful soup" (???)
+-scrape, munge, and sample business data
+-visualize data
+-understand data relationships
+-tell the machine how to learn from data
+-create data products that deliver actionable insight
+-tell relevant business stories from data
+
+-'data science is 80\% being a data janitor and cleaning data'
+
+
+
