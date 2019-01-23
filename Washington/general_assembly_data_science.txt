@@ -27,5 +27,51 @@ FRANK TURNER
 
 -'data science is 80\% being a data janitor and cleaning data'
 
+-data science work flow
 
+-packages
+(see ppt)
+
+-pandas data frames and R data frames are the same
+-column = a series
+-lets you manipulate data without having to iterate through rows
+
+-scikit learn (open source data)
+-helps with preprocessing/cleaning
+-and modeling
+-and scoring how well you did
+
+-numpy and scipy
+-matplotlib and seaborn (sp?)
+-(better than excel or tableu)
+-statsmodel (WM) good for evaluating data science models
+-beautiful soup and selenium (was initially for testing but also lets you scrape stuff from html sites)
+
+-I ignored the next 60 minutes of his talk (explaining what algorithms were, etc)
+-now he's talking about jupyter hotkeys etc
+
+JUPYTER
+-shift+enter or control+enter (also causes it to save)
+-go to kernel and 'restart + run all'
+
+CLUSTERING ALGORITHMS:
+-story of a 17yo girl who got an email from target geared towards expectant mothers
+-her dad sent a livid email
+-a month later she found out she was female
+
+things to try:
+-codecademy
+-code school
+-codewars.com
+-other framework? try spark
+
+want more?
+-listed a bunch of textbooks for data science
+-then books for math/statistics
+-then busines books
+-suggested part time and full time data science courses
+
+MOOCs
+-free classes that you can take online
+-Andrew Ng's ML class on coursera
 
