@@ -3,27 +3,25 @@ ASSESSING THE EFFECTS OF TASK AND DATA DISTRIBUTION ON THE EFFECTIVENESS OF VISU
 YOUNGHOON KIM AND JEFFREY HEER
 
 related works section:
--nominal
--ordinal
--quantitative
+-nominal (Nominal is a Name; identifies an area via a zip code, soccer player via jersey number, etc)
+-ordinal (Ordinal is for Order; says if someone is first, second, third in line)
+-quantitative (is numbers)
 -integral visual channels (color, size, etc)
 -seperable visual channels (x and size, etc)
--univariate encodings
--perceptual kernels
+-univariate encodings (from Voyager? Univariate Summaries show distributions for all data fields when no focus view is specified. )k
+-perceptual kernels (from Bernstein: "distance matrices derived from aggregate perceptual judgments")
 -distributed (or ensemble) visual information
 -value tasks (reading or comparing individual values)
 -summary tasks (comparing two averages, deciding which group has max value, etc)
--expressiveness
--effectiveness
+-expressiveness (described a visualization as expressive if a visualization encodes all relevant informations and only that information)
+-effectiveness (effectiveness criteria means that all information is presented clearly. This excludes cluttered screens.)
 
 var in this paper:
--cardinality
+-cardinality (a measure of the number of elements in a set) (Cardinal is for Counting; measures "how many")
 -#/category
--entropy
--other entropy
--another entropy
--correlation
--clusteredness
+-entropy (measure of disorder in a dataset)
+-correlation (any statistical association, but usually a linear one)
+-clusteredness (a measure of the degree to which nodes in a graph tend to cluster together)
 
 tasks:
 -value tasks (require reading/comparing individual values)
