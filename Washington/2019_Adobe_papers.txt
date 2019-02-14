@@ -1,0 +1,28 @@
+2019 FEBRUARY
+Assessing the Effects of Task and Data Distribution on the Effectiveness of Visual Encodings
+Kim and Heer (2018)
+
+
+2019 JANUARY
+
+Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visuzliation Authoring
+Zicheng Liu et al (CHI 2018)
+
+Charticulator: Interactive Construction of Bespoke Chart Layouts
+Ren, Lee, Brehmer (???)
+
+
+Converting Basic D3 Charts into Reusable Style Templates
+Harper and Agrawala (???)
+
+Show me: Automatic presentation for visual analysis
+Mackinlay, Hanrahan, Stole (2007)
+
+Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations
+Wongsuphasawat et al (2016)
+
+Voyager 2: Augmenting Visual Analysis with Partial View Specifications
+Wongsuphasawat et al (2017)
+
+A Unifying Framework for Animated and Interactive Unit Visualizations
+Drucker and Fernandez (2014)
