@@ -5,6 +5,9 @@ Kim and Heer (2018)
 Learning Perceptual Kernels for Visualization Design
 Demiralp, Bernstein, Heer (2014)
 
+Automating the Design of Graphical Presentations of Relational Information 
+Mackinlay (SIGGRAPH 1987)
+
 2019 JANUARY
 
 Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visuzliation Authoring
