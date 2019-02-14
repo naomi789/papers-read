@@ -1,0 +1,32 @@
+ASSESSING THE EFFECTS OF TASK AND DATA DISTRIBUTION ON THE EFFECTIVENESS OF VISUAL ENCODINGS
+2018 EUROGRAPHICS CONF ON VISUALIZATION (EUROVIS)
+YOUNGHOON KIM AND JEFFREY HEER
+
+related works section:
+-nominal
+-ordinal
+-quantitative
+-integral visual channels (color, size, etc)
+-seperable visual channels (x and size, etc)
+-univariate encodings
+-perceptual kernels
+-distributed (or ensemble) visual information
+-value tasks (reading or comparing individual values)
+-summary tasks (comparing two averages, deciding which group has max value, etc)
+-expressiveness
+-effectiveness
+
+var in this paper:
+-cardinality
+-#/category
+-entropy
+-other entropy
+-another entropy
+-correlation
+-clusteredness
+
+tasks:
+-value tasks (require reading/comparing individual values)
+-summary tasks (you identify or compare aggregate properties)
+
+
