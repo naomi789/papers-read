@@ -2,6 +2,8 @@
 Assessing the Effects of Task and Data Distribution on the Effectiveness of Visual Encodings
 Kim and Heer (2018)
 
+Learning Perceptual Kernels for Visualization Design
+Demiralp, Bernstein, Heer (2014)
 
 2019 JANUARY
 
