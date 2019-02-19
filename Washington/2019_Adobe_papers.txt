@@ -8,6 +8,63 @@ Demiralp, Bernstein, Heer (2014)
 Automating the Design of Graphical Presentations of Relational Information 
 Mackinlay (SIGGRAPH 1987)
 
+CLEVELAND W. S., MCGILL R.: 
+Graphical perception: Theory, experimentation, and application to the development of graphical methods. 
+Journal of the American Statistical Association 79 (1984), 531–554.
+
+HEER J., BOSTOCK M.: Crowdsourcing graphical perception:
+using mechanical turk to assess visualization design. In Proceedings
+of the SIGCHI Conference on Human Factors in Computing Systems
+(2010), ACM, pp. 203–212.
+(this one tests validity of crowdsourcing)
+
+SZAFIR D. A., HAROZ S., GLEICHER M., FRANCONERI S.:
+Four types of ensemble coding in data visualizations. Journal of vision
+16, 5 (2016), 11–11.
+(this one was actually helpful)
+
+ALBERS D., CORRELL M., GLEICHER M.: Task-driven evaluation of aggregation in time series visualization. 
+In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (2014), ACM
+
+GLEICHER M., CORRELL M., NOTHELFER C., FRANCONERI S.: Perception of average value in multiclass scatterplots. IEEE
+Transactions on Visualization and Computer Graphics 19, 12 (2013),
+2316–2325.
+
+Beyond Weber’s Law: A Second Look at
+Ranking Visualizations of Correlation
+Matthew Kay and Jeffrey Heer 2016
+(about the Weber–Fechner law)
+
+Ranking Visualizations of Correlation Using Weber’s Law
+Lane Harrison, Fumeng Yang, Steven Franconeri, Remco Chang
+2014 TVCG
+
+SARIKAYA A., GLEICHER M.: Scatterplots: Tasks, data, and
+designs. IEEE Transactions on Visualization and Computer Graphics
+(2017).
+(interesting; about variations of scatterplots when too much data)
+
+PANDEY A. V., KRAUSE J., FELIX C., BOY J., BERTINI E.:
+Towards understanding human similarity perception in the analysis of
+large sets of scatter plots. In Proceedings of the SIGCHI Conference on
+Human Factors in Computing Systems (2016), ACM, pp. 3659–3669.
+(this one was also helpful)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2019 JANUARY
 
 Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visuzliation Authoring
